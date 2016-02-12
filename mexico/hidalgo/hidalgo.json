@@ -22,22 +22,14 @@
         "title": "Neurotik"
     },
     {
-<<<<<<< HEAD
         "streams": [{
-=======
-         "streams": [{
->>>>>>> origin/master
             "playlist": ["http://104.130.146.201:8000/xhtom"],
             "bitrate": 128,
             "metaint": true,
             "live": true,
             "url_m3u": ""
         }],
-<<<<<<< HEAD
-        "genre": "La Warida Radio",
-=======
         "genre": "Un Espacio Para Tus Sentidos",
->>>>>>> origin/master
         "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/hidalgo/wari.png",
         "time": "",
         "title": "La Warida Radio"

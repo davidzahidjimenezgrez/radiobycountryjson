@@ -17,85 +17,49 @@
     {
         "streams": [
 			{
-            "playlist": ["http://178.63.71.18:7090"],
-            "bitrate": 128,
+            "playlist": ["http://198.154.246.178:7006/"],
+            "bitrate": 24,
             "metaint": true,
             "live": true,
-            "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/hidalgo/wari.m3u"
+            "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/hidalgo/plazajuarez.m3u"
 			}
 		],
-        "genre": "Un Espacio Para Tus Sentidos",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/hidalgo/wari.png",
+        "genre": "Pachuca",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/hidalgo/plazajuarez.png",
         "time": "",
-        "title": "La Warida Radio"
+        "title": "Radio Plaza Juarez"
     },
     {
         "streams": [
             {
                 "playlist": [
-                    "http://archive.wrek.org/main/24kb/Thu0000.mp3",
-                    "http://archive.wrek.org/main/24kb/Thu0030.mp3",
-                    "http://archive.wrek.org/main/24kb/Thu0100.mp3",
-                    "http://archive.wrek.org/main/24kb/Thu0130.mp3",
-                    "http://archive.wrek.org/main/24kb/Thu0200.mp3",
-                    "http://archive.wrek.org/main/24kb/Thu0230.mp3"
+                    "http://radioytv.hidalgo.gob.mx:8000/",
                 ],
                 "bitrate": 24,
-                "live": false,
-                "url_m3u": "http://www.wrek.org/playlist.php/main/24kbs/current/ATM_40000.m3u"
-            },
-            {
-                "playlist": [
-                    "http://archive.wrek.org/main/128kb/Thu0000.mp3",
-                    "http://archive.wrek.org/main/128kb/Thu0030.mp3",
-                    "http://archive.wrek.org/main/128kb/Thu0100.mp3",
-                    "http://archive.wrek.org/main/128kb/Thu0130.mp3",
-                    "http://archive.wrek.org/main/128kb/Thu0200.mp3",
-                    "http://archive.wrek.org/main/128kb/Thu0230.mp3"
-                ],
-                "bitrate": 128,
-                "live": false,
-                "url_m3u": "http://www.wrek.org/playlist.php/main/128kbs/current/ATM_40000.m3u"
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/hidalgo/radioytvhidalgo.m3u"
             }
         ],
-        "genre": "Ambient, drone, spaced-out",
-        "logo": "http://www.selbie.com/wrek/atmospherics.png",
-        "time": "Thu 2/11 12:00 AM",
-        "title": "Atmospherics"
+        "genre": "Hidalgo",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/hidalgo/radioytvhidalgo.png",
+        "time": "",
+        "title": "Radio y Televisión"
     },
     {
         "streams": [
             {
                 "playlist": [
-                    "http://archive.wrek.org/main/24kb/Thu0600.mp3",
-                    "http://archive.wrek.org/main/24kb/Thu0630.mp3",
-                    "http://archive.wrek.org/main/24kb/Thu0700.mp3",
-                    "http://archive.wrek.org/main/24kb/Thu0730.mp3",
-                    "http://archive.wrek.org/main/24kb/Thu0800.mp3",
-                    "http://archive.wrek.org/main/24kb/Thu0830.mp3"
+                    "http://209.133.210.123:8027",
                 ],
                 "bitrate": 24,
-                "live": false,
-                "url_m3u": "http://www.wrek.org/playlist.php/main/24kbs/current/CL_40600.m3u"
-            },
-            {
-                "playlist": [
-                    "http://archive.wrek.org/main/128kb/Thu0600.mp3",
-                    "http://archive.wrek.org/main/128kb/Thu0630.mp3",
-                    "http://archive.wrek.org/main/128kb/Thu0700.mp3",
-                    "http://archive.wrek.org/main/128kb/Thu0730.mp3",
-                    "http://archive.wrek.org/main/128kb/Thu0800.mp3",
-                    "http://archive.wrek.org/main/128kb/Thu0830.mp3"
-                ],
-                "bitrate": 128,
-                "live": false,
-                "url_m3u": "http://www.wrek.org/playlist.php/main/128kbs/current/CL_40600.m3u"
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/hidalgo/kebuena1067.m3u"
             }
         ],
-        "genre": "Classical (Traditional and contemporary)",
-        "logo": "http://www.selbie.com/wrek/classics.png",
-        "time": "Thu 2/11 6:00 AM",
-        "title": "The Classics"
+        "genre": "106.7 FM Pachuca",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/hidalgo/kebuena1067.png",
+        "time": "",
+        "title": "La KeBuena"
     },
     {
         "streams": [

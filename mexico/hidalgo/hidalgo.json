@@ -32,8 +32,7 @@
     {
         "streams": [
             {
-                "playlist": [
-                    "http://radioytv.hidalgo.gob.mx:8000/"],
+                "playlist": ["http://radioytv.hidalgo.gob.mx:8000/"],
                 "bitrate": 24,
 				 "metaint": true,
                 "live": true,

@@ -16,23 +16,23 @@
                 "url_m3u": "http://streaming.wrek.org:8000/wrek_live-128kb.m3u"
             }
         ],
-        "genre": "NEURÓTIK PACHUCA 106.1",
+        "genre": "NEURÓTIK Pachuca 106.1",
         "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/hidalgo/neurotik.png",
         "time": "",
         "title": "Neurotik"
     },
     {
-        "streams": [{
-            "playlist": ["http://streaming.wrek.org:8000/wrek_HD-2"],
+         "streams": [{
+            "playlist": ["http://104.130.146.201:8000/xhtom"],
             "bitrate": 128,
             "metaint": true,
             "live": true,
-            "url_m3u": "http://streaming.wrek.org:8000/wrek_HD-2.m3u"
+            "url_m3u": ""
         }],
-        "genre": "Alternate programming",
-        "logo": "http://www.selbie.com/wrek/hd.png",
+        "genre": "Un Espacio Para Tus Sentidos",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/hidalgo/wari.png",
         "time": "",
-        "title": "HD2 Subchannel"
+        "title": "La Warida Radio"
     },
     {
         "streams": [

@@ -16,8 +16,8 @@
                 "url_m3u": "http://streaming.wrek.org:8000/wrek_live-128kb.m3u"
             }
         ],
-        "genre": "NEURÓTIK PACHUCA 106.1 forma parte de NEURÓTIK que es una cadena de estaciones POWER POP, llena de energía, alegría y contenidos originales",
-        "logo": "http://www.selbie.com/wrek/radio2.png",
+        "genre": "NEURÓTIK PACHUCA 106.1",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/hidalgo/neurotik.png",
         "time": "",
         "title": "Neurotik"
     },

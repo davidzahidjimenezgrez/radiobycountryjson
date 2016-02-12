@@ -23,14 +23,14 @@
     },
     {
         "streams": [{
-            "playlist": ["http://streaming.wrek.org:8000/wrek_HD-2"],
+            "playlist": ["http://104.130.146.201:8000/xhtom"],
             "bitrate": 128,
             "metaint": true,
             "live": true,
-            "url_m3u": "http://streaming.wrek.org:8000/wrek_HD-2.m3u"
+            "url_m3u": ""
         }],
-        "genre": "Alternate programming",
-        "logo": "http://www.selbie.com/wrek/hd.png",
+        "genre": "La Warida Radio",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/hidalgo/wari.png",
         "time": "",
         "title": "HD2 Subchannel"
     },

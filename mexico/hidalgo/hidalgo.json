@@ -15,8 +15,9 @@
         "title": "Neurotik"
     },
     {
-        "streams": [{
-            "playlist": ["178.63.71.18:7090"],
+        "streams": [
+			{
+            "playlist": ["http://178.63.71.18:7090"],
             "bitrate": 128,
             "metaint": true,
             "live": true,

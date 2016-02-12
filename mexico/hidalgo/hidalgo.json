@@ -6,14 +6,7 @@
                 "bitrate": 24,
                 "metaint": true,
                 "live": true,
-                "url_m3u": "http://streaming.wrek.org:8000/wrek_live-24kb-mono.m3u"
-            },
-            {
-                "playlist": ["http://104.130.146.201:8000/xhtom"],
-                "bitrate": 128,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "http://streaming.wrek.org:8000/wrek_live-128kb.m3u"
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/hidalgo/neurotik.m3u"
             }
         ],
         "genre": "NEURÓTIK Pachuca 106.1",
@@ -23,11 +16,11 @@
     },
     {
         "streams": [{
-            "playlist": ["http://104.130.146.201:8000/xhtom"],
+            "playlist": ["178.63.71.18:7090"],
             "bitrate": 128,
             "metaint": true,
             "live": true,
-            "url_m3u": ""
+            "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/hidalgo/wari.m3u"
         }],
         "genre": "Un Espacio Para Tus Sentidos",
         "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/hidalgo/wari.png",

@@ -33,9 +33,9 @@
         "streams": [
             {
                 "playlist": [
-                    "http://radioytv.hidalgo.gob.mx:8000/",
-                ],
+                    "http://radioytv.hidalgo.gob.mx:8000/"],
                 "bitrate": 24,
+				 "metaint": true,
                 "live": true,
                 "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/hidalgo/radioytvhidalgo.m3u"
             }
@@ -48,10 +48,9 @@
     {
         "streams": [
             {
-                "playlist": [
-                    "http://209.133.210.123:8027",
-                ],
+                "playlist": ["http://209.133.210.123:8027"],
                 "bitrate": 24,
+				 "metaint": true,
                 "live": true,
                 "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/hidalgo/kebuena1067.m3u"
             }

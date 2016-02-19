@@ -1,0 +1,182 @@
+{"items": [
+    {
+        "streams": [
+            {
+                "playlist": ["http://stream2.dyndns.org:8000/xhwx.mp3"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/durango/kebuena981.m3u"
+            }
+        ],
+        "genre": "660 AM Durango",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/durango/kebuena981.png",
+        "time": "",
+        "title": "Ke Buena 98.1"
+    },
+	{
+        "streams": [
+            {
+                "playlist": ["http://stream2.dyndns.org:8000/xhoh.mp3"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/durango/40principales.m3u"
+            }
+        ],
+        "genre": "107.7 FM",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/durango/40principales.png",
+        "time": "",
+        "title": "40 Principales"
+    },
+	{
+        "streams": [
+            {
+                "playlist": ["http://stream2.dyndns.org:8000/xedrd.mp3"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/durango/wradiod.m3u"
+            }
+        ],
+        "genre": "Durango",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/durango/wradiod.png",
+        "time": "",
+        "title": "W Radio"
+    },
+	{
+        "streams": [
+            {
+                "playlist": ["http://200.66.39.11:8010/xstream"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/durango/tremenda100.m3u"
+            }
+        ],
+        "genre": "Con la Raza",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/durango/tremenda100.png",
+        "time": "",
+        "title": "Tremenda al 100"
+    },
+	{
+        "streams": [
+            {
+                "playlist": ["http://200.66.39.11:8010/xstream"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/durango/radioest.m3u"
+            }
+        ],
+        "genre": "",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/durango/radioest.png",
+        "time": "",
+        "title": "Radio EST 1"
+    },
+	{
+        "streams": [
+            {
+                "playlist": [""],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/durango/"
+            }
+        ],
+        "genre": "",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/durango/",
+        "time": "",
+        "title": ""
+    },
+	{
+        "streams": [
+            {
+                "playlist": ["http://204.45.15.50:2042/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/durango/radiocontexto.m3u"
+            }
+        ],
+        "genre": "Durango",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/durango/radiocontexto.png",
+        "time": "",
+        "title": "Radio Contexto"
+    },
+	{
+        "streams": [
+            {
+                "playlist": ["http://64.15.187.58:8000/durango"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/durango/durangopc.m3u"
+            }
+        ],
+        "genre": "Durango 590 AM",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/durango/durangopc.png",
+        "time": "",
+        "title": "Primera Cadena"
+    },
+	{
+        "streams": [
+            {
+                "playlist": ["http://192.99.14.225:9700/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/durango/popfm957.m3u"
+            }
+        ],
+        "genre": "Durango",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/durango/popfm957.png",
+        "time": "",
+        "title": "Pop FM 95.7"
+    },
+	{
+        "streams": [
+            {
+                "playlist": ["http://184.107.179.162:3196/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/durango/itdfm.m3u"
+            }
+        ],
+        "genre": "Durango",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/durango/itdfm.png",
+        "time": "",
+        "title": "ITD 92.1 FM"
+    },
+	{
+        "streams": [
+            {
+                "playlist": ["http://200.23.125.55:8000/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/durango/radioujed.m3u"
+            }
+        ],
+        "genre": "Universidad Durango",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/durango/radioujed.png",
+        "time": "",
+        "title": "Radio UJED 100.5 FM"
+    },
+	{
+        "streams": [
+            {
+                "playlist": ["http://listen.radionomy.com/elduranguenseradio"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/durango/elduranguense.m3u"
+            }
+        ],
+        "genre": "Radio Online",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/durango/elduranguense.png",
+        "time": "",
+        "title": "El Duranguense"
+    }
+]}

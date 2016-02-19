@@ -8,7 +8,7 @@
                 "live": true,
                 "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/hidalgo/neurotik.m3u"
             }
-        ],
+		],
         "genre": "NEURÓTIK Pachuca 106.1",
         "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/hidalgo/neurotik.png",
         "time": "",
@@ -62,9 +62,7 @@
     {
         "streams": [
             {
-                "playlist": [
-                    "http://200.34.44.240:8002/",
-                ],
+                "playlist": ["http://200.34.44.240:8002/"],
                 "bitrate": 24,
                 "live": true,
                 "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/hidalgo/uaeh.m3u"
@@ -78,9 +76,7 @@
     {
         "streams": [
             {
-                "playlist": [
-                    "http://198.154.246.178:8024/",
-                ],
+                "playlist": ["http://198.154.246.178:8024/"],
                 "bitrate": 24,
                 "live": true,
                 "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/hidalgo/nqradio.m3u"
@@ -94,9 +90,7 @@
     {
         "streams": [
             {
-                "playlist": [
-                    "http://184.107.179.162:3007/",
-                ],
+                "playlist": ["http://184.107.179.162:3007/"],
                 "bitrate": 24,
                 "live": true,
                 "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/hidalgo/radiovalletulancingo.m3u"
@@ -110,9 +104,7 @@
     {
         "streams": [
             {
-                "playlist": [
-                    "http://radiocelmi.sytes.net:8000/",
-                ],
+                "playlist": ["http://radiocelmi.sytes.net:8000/"],
                 "bitrate": 24,
                 "live": true,
                 "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/hidalgo/radiocelularmillenium.m3u"
@@ -126,9 +118,7 @@
     {
         "streams": [
             {
-                "playlist": [
-                    "http://streaming.radionomy.com/RadionoMiX",
-                ],
+                "playlist": ["http://streaming.radionomy.com/RadionoMiX"],
                 "bitrate": 24,
                 "live": true,
                 "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/hidalgo/pachucavipradio.m3u"
@@ -142,9 +132,7 @@
     {
         "streams": [
             {
-                "playlist": [
-                    "http://192.99.34.205:8612/stream",
-                ],
+                "playlist": ["http://192.99.34.205:8612/stream"],
                 "bitrate": 24,
                 "live": true,
                 "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/hidalgo/miledradio.m3u"
@@ -158,9 +146,7 @@
     {
         "streams": [
             {
-                "playlist": [
-                    "http://195.154.182.222:25752/autodj",
-                ],
+                "playlist": ["http://195.154.182.222:25752/autodj"],
                 "bitrate": 24,
                 "live": true,
                 "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/hidalgo/ciudadplastika.m3u"
@@ -174,9 +160,7 @@
     {
         "streams": [
             {
-                "playlist": [
-                    "http://85.17.30.50:8002/",
-                ],
+                "playlist": ["http://85.17.30.50:8002/"],
                 "bitrate": 24,
                 "live": true,
                 "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/hidalgo/poluxradio.m3u"
@@ -190,9 +174,7 @@
     {
         "streams": [
             {
-                "playlist": [
-                    "http://64.37.55.229:8200/",
-                ],
+                "playlist": ["http://64.37.55.229:8200/"],
                 "bitrate": 24,
                 "live": true,
                 "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/hidalgo/abstractomx.m3u"

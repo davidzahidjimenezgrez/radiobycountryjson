@@ -193,7 +193,8 @@
         "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/lakaliente1029.png",
         "time": "",
         "title": "La Kaliente 102.9 FM"
-    },{
+    },
+	{
         "streams": [
             {
                 "playlist": ["http://zer.zuperdns.net:2001/;"],
@@ -207,7 +208,8 @@
         "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/lasanmarquena.png",
         "time": "",
         "title": "La SanMarquena"
-    },{
+    },
+	{
         "streams": [
             {
                 "playlist": ["http://zer.zuperdns.net:9570/"],
@@ -221,7 +223,8 @@
         "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/40principales957fm.png",
         "time": "",
         "title": "40 Principales 95.7 FM"
-    },{
+    },
+	{
         "streams": [
             {
                 "playlist": ["http://zer.zuperdns.net:1045/"],
@@ -235,7 +238,8 @@
         "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/amor1045.png",
         "time": "Amor 104.5 FM",
         "title": ""
-    },{
+    },
+	{
         "streams": [
             {
                 "playlist": ["http://zer.zuperdns.net:1006/"],
@@ -249,7 +253,8 @@
         "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/laranchera1061.png",
         "time": "",
         "title": "La Ranchera 106.1 FM"
-    },{
+    },
+	{
         "streams": [
             {
                 "playlist": [""],
@@ -263,7 +268,8 @@
         "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/",
         "time": "",
         "title": ""
-    },{
+    },
+	{
         "streams": [
             {
                 "playlist": ["http://201.159.48.107:88/broadwave.mp3?src=2.&amp;kbps=24&amp;"],
@@ -277,7 +283,8 @@
         "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/lapoderosa1077.png",
         "time": "",
         "title": "La Poderosa 107.7 FM"
-    },{
+    },
+	{
         "streams": [
             {
                 "playlist": ["http://streaming.radionomy.com/HastaqueelcuerpoAguanteonline"],
@@ -291,7 +298,8 @@
         "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/aguante1037.png",
         "time": "",
         "title": "Hasta Que El Cuerpo"
-    },{
+    },
+	{
         "streams": [
             {
                 "playlist": ["http://50.22.218.197:8783/"],
@@ -305,7 +313,8 @@
         "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/masqueradio1073.png",
         "time": "",
         "title": "Mas Que Radio 107.3 FM"
-    },{
+    },
+	{
         "streams": [
             {
                 "playlist": ["http://184.107.179.162:3419/"],
@@ -319,7 +328,8 @@
         "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/radiofe983.png",
         "time": "",
         "title": "Radio Fe 98.3 FM"
-    },{
+    },
+	{
         "streams": [
             {
                 "playlist": ["ttp://95.211.115.197:8129/"],
@@ -333,7 +343,8 @@
         "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/suenaradio.png",
         "time": "",
         "title": "Suena Radio FM"
-    },{
+    },
+	{
         "streams": [
             {
                 "playlist": ["http://208.43.9.106:8015/"],

@@ -1,0 +1,351 @@
+{"items": [
+    {
+        "streams": [
+            {
+                "playlist": ["http://201.159.48.106:8080/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/105digitalonline.m3u"
+            }
+        ],
+        "genre": "Aguascalientes",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/105digitalonline.png",
+        "time": "",
+        "title": "105 Digital Online"
+    },
+	{
+        "streams": [
+            {
+                "playlist": ["http://201.159.48.105:8080/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/lainvasora.m3u"
+            }
+        ],
+        "genre": "Aguascalientes",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/lainvasora.png",
+        "time": "",
+        "title": "La Invasora 98.9"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://tunein.gvstream.net:9232/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/lamejorfm.m3u"
+            }
+        ],
+        "genre": "Aguascalientes",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/lamejorfm.png",
+        "time": "",
+        "title": "La Mejor FM"
+    },
+	{
+        "streams": [
+            {
+                "playlist": ["http://tunein.gvstream.net:9040/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/lamexicana913.m3u"
+            }
+        ],
+        "genre": "Aguascalientes",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/lamexicana913.png",
+        "time": "",
+        "title": "La Mexicana 91.3 FM"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://192.173.28.58/XHSHFM_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/amor925.m3u"
+            }
+        ],
+        "genre": "Aguascalientes",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/amor925.png",
+        "time": "",
+        "title": "Amor 92.5 FM"
+    },
+	{
+        "streams": [
+            {
+                "playlist": ["http://8343.live.streamtheworld.com:3690/STEREOREY_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/stereorey.m3u"
+            }
+        ],
+        "genre": "Aguascalientes",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/stereorey.png",
+        "time": "",
+        "title": "Stereo Rey"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://201.159.48.107:88/broadwave.mp3?src=1&amp;kbps=56"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/magia101fm.m3u"
+            }
+        ],
+        "genre": "Aguascalientes",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/magia101fm.png",
+        "time": "",
+        "title": "Magia 101.1 FM"
+    },
+	{
+        "streams": [
+            {
+                "playlist": ["http://201.159.48.107:88/broadwave.mp3?src=1&amp;kbps=56"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/790ambi.m3u"
+            }
+        ],
+        "genre": "Aguascalientes",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/790ambi.png",
+        "time": "",
+        "title": "790 AM BI"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://201.159.48.107:88/broadwave.mp3"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/bi887fm.m3u"
+            }
+        ],
+        "genre": "Aguascalientes",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/bi887fm.png",
+        "time": "",
+        "title": "BI 88.7 FM"
+    },
+	{
+        "streams": [
+            {
+                "playlist": ["http://201.159.48.106:88/broadwave.mp3?src=3&amp;kbps=24"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/uva905.m3u"
+            }
+        ],
+        "genre": "Aguascalientes",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/uva905.png",
+        "time": "",
+        "title": "UVA 90.5 FM"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://stream1.estereocatolica.com:8000/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/stereocatolicaaguascalientes.m3u"
+            }
+        ],
+        "genre": "Aguascalientes",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/stereocatolicaaguascalientes.png",
+        "time": "",
+        "title": "Stereo Catolica"
+    },
+	{
+        "streams": [
+            {
+                "playlist": ["http://198.27.88.63:9990/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/novaradio.m3u"
+            }
+        ],
+        "genre": "Aguascalientes",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/novaradio.png",
+        "time": "",
+        "title": "Nova Radio"
+    },
+	{
+        "streams": [
+            {
+                "playlist": ["http://zer.zuperdns.net:1021/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/lakaliente1029.m3u"
+            }
+        ],
+        "genre": "Aguascalientes",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/lakaliente1029.png",
+        "time": "",
+        "title": "La Kaliente 102.9 FM"
+    },{
+        "streams": [
+            {
+                "playlist": ["http://zer.zuperdns.net:2001/;"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/lasanmarquena.m3u"
+            }
+        ],
+        "genre": "Aguascalientes",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/lasanmarquena.png",
+        "time": "",
+        "title": "La SanMarquena"
+    },{
+        "streams": [
+            {
+                "playlist": ["http://zer.zuperdns.net:9570/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/40principales957fm.m3u"
+            }
+        ],
+        "genre": "Aguascalientes",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/40principales957fm.png",
+        "time": "",
+        "title": "40 Principales 95.7 FM"
+    },{
+        "streams": [
+            {
+                "playlist": ["http://zer.zuperdns.net:1045/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/amor1045.m3u"
+            }
+        ],
+        "genre": "Aguascalientes",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/amor1045.png",
+        "time": "Amor 104.5 FM",
+        "title": ""
+    },{
+        "streams": [
+            {
+                "playlist": ["http://zer.zuperdns.net:1006/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/laranchera1061.m3u"
+            }
+        ],
+        "genre": "Aguascalientes",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/laranchera1061.png",
+        "time": "",
+        "title": "La Ranchera 106.1 FM"
+    },{
+        "streams": [
+            {
+                "playlist": [""],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/"
+            }
+        ],
+        "genre": "Aguascalientes",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/",
+        "time": "",
+        "title": ""
+    },{
+        "streams": [
+            {
+                "playlist": ["http://201.159.48.107:88/broadwave.mp3?src=2.&amp;kbps=24&amp;"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/lapoderosa1077.m3u"
+            }
+        ],
+        "genre": "Aguascalientes",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/lapoderosa1077.png",
+        "time": "",
+        "title": "La Poderosa 107.7 FM"
+    },{
+        "streams": [
+            {
+                "playlist": ["http://streaming.radionomy.com/HastaqueelcuerpoAguanteonline"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/aguante1037.m3u"
+            }
+        ],
+        "genre": "Aguante 103.7 FM Aguascalientes",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/aguante1037.png",
+        "time": "",
+        "title": "Hasta Que El Cuerpo"
+    },{
+        "streams": [
+            {
+                "playlist": ["http://50.22.218.197:8783/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/masqueradio1073.m3u"
+            }
+        ],
+        "genre": "Aguascalientes",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/masqueradio1073.png",
+        "time": "",
+        "title": "Mas Que Radio 107.3 FM"
+    },{
+        "streams": [
+            {
+                "playlist": ["http://184.107.179.162:3419/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/radiofe983.m3u"
+            }
+        ],
+        "genre": "Aguascalientes",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/radiofe983.png",
+        "time": "",
+        "title": "Radio Fe 98.3 FM"
+    },{
+        "streams": [
+            {
+                "playlist": ["ttp://95.211.115.197:8129/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/suenaradio.m3u"
+            }
+        ],
+        "genre": "Aguascalientes",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/suenaradio.png",
+        "time": "",
+        "title": "Suena Radio FM"
+    },{
+        "streams": [
+            {
+                "playlist": ["http://208.43.9.106:8015/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/radioesfuentedeluz.m3u"
+            }
+        ],
+        "genre": "Aguascalientes",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/radioesfuentedeluz.png",
+        "time": "",
+        "title": "Fuente de Luz"
+    }
+]}

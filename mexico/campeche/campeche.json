@@ -17,7 +17,7 @@
 	{
         "streams": [
             {
-                "playlist": ["198.245.51.113:8150"],
+                "playlist": ["http://198.245.51.113:8150"],
                 "bitrate": 24,
                 "metaint": true,
                 "live": true,
@@ -178,7 +178,8 @@
         "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/campeche/ncs-champoton-96-7-fm-campeche.png",
         "time": "",
         "title": "NCS Champoton"
-    },{
+    },
+	{
         "streams": [
             {
                 "playlist": ["http://www.tuasesorweb.com:8016/"],
@@ -192,7 +193,8 @@
         "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/campeche/maxima-98-9-fm-ciudad-del-carmen.png",
         "time": "",
         "title": "Maxima 98.9"
-    },{
+    },
+	{
         "streams": [
             {
                 "playlist": ["http://184.107.217.186:1223/"],
@@ -206,7 +208,8 @@
         "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/campeche/radio-escarcega-103-9-fm-campeche.png",
         "time": "",
         "title": "NCS Escarcega 103.9 FM"
-    },{
+    },
+	{
         "streams": [
             {
                 "playlist": ["http://184.107.217.186:1443/"],
@@ -220,7 +223,8 @@
         "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/campeche/radio-palizada-106-5-fm-campeche.png",
         "time": "",
         "title": "NCS 106.9"
-    },{
+    },
+	{
         "streams": [
             {
                 "playlist": ["http://192.100.163.140:8000/"],
@@ -234,7 +238,8 @@
         "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/campeche/radio-uac.png",
         "time": "",
         "title": "Radio UAC"
-    },{
+    },
+	{
         "streams": [
             {
                 "playlist": ["http://sc1.streamingchoice.com:9180/"],
@@ -248,7 +253,8 @@
         "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/campeche/radial-88-9-fm-cd-del-carmen.png",
         "time": "",
         "title": "Radial 88.9"
-    },{
+    },
+	{
         "streams": [
             {
                 "playlist": ["http://69.31.54.143/LOS40_MEXICO_SC"],

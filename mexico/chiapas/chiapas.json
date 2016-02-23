@@ -195,7 +195,7 @@
     },	{
         "streams": [
             {
-                "playlist": ["http://s1.radiorama.com.mx:9590"],
+                "playlist": ["http://s1.radiorama.com.mx:9590/"],
                 "bitrate": 24,
                 "metaint": true,
                 "live": true,

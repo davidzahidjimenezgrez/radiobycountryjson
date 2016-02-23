@@ -1,0 +1,336 @@
+{"items": [
+    {
+        "streams": [
+            {
+                "playlist": ["http://216.55.186.61:8039/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/playlist.m3u"
+            }
+        ],
+        "genre": "Chiapas",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/extremo-grupero-89-9-fm-cintalapa.png",
+        "time": "",
+        "title": "Extremo Grupero 89.9 FM"
+    },
+	{
+        "streams": [
+            {
+                "playlist": ["http://204.45.15.50:2044/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/playlist.m3u"
+            }
+        ],
+        "genre": "Chiapas",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/extremo-103-9-fm-villaflores.png",
+        "time": "",
+        "title": "Extremo, Villa Flores 103.9 FM"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://216.55.186.61:8067/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/playlist.m3u"
+            }
+        ],
+        "genre": "Chiapas",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/extremo-90-7-fm-tapachula.png",
+        "time": "",
+        "title": "Extremo 90.7 FM"
+    },
+	{
+        "streams": [
+            {
+                "playlist": ["http://216.55.186.61:8020/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/playlist.m3u"
+            }
+        ],
+        "genre": "Chiapas",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/40-principales-96-1-fm-tuxtla-gutierrez.png",
+        "time": "",
+        "title": "40 Principales 96.1"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://216.55.186.61:8024/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/playlist.m3u"
+            }
+        ],
+        "genre": "Chiapas",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/la-ke-buena-fm-100-1-tuxtla-gutierrez.png",
+        "time": "",
+        "title": "Ke Buena 100.1 FM"
+    },
+	{
+        "streams": [
+            {
+                "playlist": ["http://198.50.113.170:9056/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/playlist.m3u"
+            }
+        ],
+        "genre": "Chiapas",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/radio-tepeyac-93-3-fm-san-cristobal-de-las-casas.png",
+        "time": "",
+        "title": "Tepeyac 93.3 FM"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://208.80.54.149/XHRO_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/playlist.m3u"
+            }
+        ],
+        "genre": "Chiapas",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/la-mejor-101-7-fm-tuxtla-gutierrez.png",
+        "time": "",
+        "title": "La Mejor 101.7 FM"
+    },
+	{
+        "streams": [
+            {
+                "playlist": ["http://66.240.202.106:9082/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/playlist.m3u"
+            }
+        ],
+        "genre": "Chiapas",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/bella-musica-93-1-fm-tuxtla-gutierrez.png",
+        "time": "",
+        "title": "93.1 FM"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://66.240.202.106:9080/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/playlist.m3u"
+            }
+        ],
+        "genre": "Chiapas",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/exa-98-5-fm-tuxtla-gutierrez.png",
+        "time": "",
+        "title": "EXA 98.5 FM"
+    },
+	{
+        "streams": [
+            {
+                "playlist": ["http://66.240.202.106:9082/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/playlist.m3u"
+            }
+        ],
+        "genre": "Chiapas",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/bella-musica-106-7-fm-tapachula.png",
+        "time": "",
+        "title": "106.7 FM"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://206.190.131.100:9300/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/playlist.m3u"
+            }
+        ],
+        "genre": "Chiapas",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/radio-congreso-chiapas.png",
+        "time": "",
+        "title": "Radio Congreso"
+    },
+	{
+        "streams": [
+            {
+                "playlist": ["http://216.55.186.61:8071/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/playlist.m3u"
+            }
+        ],
+        "genre": "Chiapas",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/extremo-grupero-99-1-fm-comitan.png",
+        "time": "",
+        "title": "Extremo Grupero 99.1 FM"
+    },	{
+        "streams": [
+            {
+                "playlist": ["http://216.55.186.61:8007/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/playlist.m3u"
+            }
+        ],
+        "genre": "Chiapas",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/extremo-90-3-fm-tuxtla-gutierrez.png",
+        "time": "",
+        "title": "Extremo 90.3 FM"
+    },	{
+        "streams": [
+            {
+                "playlist": ["http://s1.radiorama.com.mx:9590"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/playlist.m3u"
+            }
+        ],
+        "genre": "Chiapas",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/la-mas-perrona-98-7-fm-tapachula.png",
+        "time": "",
+        "title": "La Mas Perrona 98.7 FM"
+    },	{
+        "streams": [
+            {
+                "playlist": ["http://216.55.186.61:8063/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/playlist.m3u"
+            }
+        ],
+        "genre": "Chiapas",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/40-principales-99-5-fm-tapachula.png",
+        "time": "",
+        "title": "40 Principales 99.5"
+    },	{
+        "streams": [
+            {
+                "playlist": ["http://108.163.177.42:2465/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/playlist.m3u"
+            }
+        ],
+        "genre": "Chiapas",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/exa-95-7-fm-comitan.png",
+        "time": "",
+        "title": "EXA 95.7 FM"
+    },	{
+        "streams": [
+            {
+                "playlist": ["http://198.50.113.170:9248/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/playlist.m3u"
+            }
+        ],
+        "genre": "Chiapas",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/exa-91-5-fm-tapachula.png",
+        "time": "",
+        "title": "EXA 91.5 FM"
+    },	{
+        "streams": [
+            {
+                "playlist": ["http://216.55.186.61:8059/stream"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/playlist.m3u"
+            }
+        ],
+        "genre": "Chiapas",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/la-ke-buena-94-7-fm-tapachula.png",
+        "time": "",
+        "title": "La Ke Buena 94.7 FM"
+    },	{
+        "streams": [
+            {
+                "playlist": ["http://216.55.186.61:8055/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/playlist.m3u"
+            }
+        ],
+        "genre": "Chiapas",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/extremo-grupero-95-1-fm-mapastepec.png",
+        "time": "",
+        "title": "EXTREMO 95.1 FM"
+    },	{
+        "streams": [
+            {
+                "playlist": ["http://radiopepito.purestream.net:8010/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/playlist.m3u"
+            }
+        ],
+        "genre": "Chiapas",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/radio-pepito-tuxtla-gutierrez.png",
+        "time": "",
+        "title": "Radio Pepito "
+    },	{
+        "streams": [
+            {
+                "playlist": ["http://www.tuasesorweb.com:8018/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/playlist.m3u"
+            }
+        ],
+        "genre": "Chiapas",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/maxima-96-9-fm.png",
+        "time": "",
+        "title": "Maxima 96.9 FM"
+    },	{
+        "streams": [
+            {
+                "playlist": ["http://69.31.54.140/XECHH_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/playlist.m3u"
+            }
+        ],
+        "genre": "Chiapas",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/capital-maxima-650-am.png",
+        "time": "",
+        "title": "Capital Maxima"
+    },	{
+        "streams": [
+            {
+                "playlist": ["http://www.tuasesorweb.com:8038/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/playlist.m3u"
+            }
+        ],
+        "genre": "Chiapas",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/maxima-97-9-fm.png",
+        "time": "",
+        "title": "Maxima 97.9 FM"
+    }
+]}

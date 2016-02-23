@@ -1,0 +1,122 @@
+{"items": [
+    {
+        "streams": [
+            {
+                "playlist": ["http://64.15.187.58:8000/lapaz"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacaliforniasur/"
+            }
+        ],
+        "genre": "Baja California Sur",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacaliforniasur/radio-formula-790-am-la-paz.png",
+        "time": "",
+        "title": "Radio Formula"
+    },
+	{
+        "streams": [
+            {
+                "playlist": ["http://www.kvoz.com:8080/radiolagiganta"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacaliforniasur/"
+            }
+        ],
+        "genre": "Baja California Sur",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacaliforniasur/la-giganta-730-am-loreto.png",
+        "time": "",
+        "title": "La Giganta 730 AM"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://www.kvoz.com:8080/xehz"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacaliforniasur/"
+            }
+        ],
+        "genre": "Baja California Sur",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacaliforniasur/fm-xehz-990-am-la-paz.png",
+        "time": "",
+        "title": "990 AM"
+    },
+	{
+        "streams": [
+            {
+                "playlist": ["http://50.7.29.178:9976/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacaliforniasur/"
+            }
+        ],
+        "genre": "Baja California Sur",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacaliforniasur/cabo-mil-fm-96-3-san-lucas.png",
+        "time": "",
+        "title": "Cabo Mil 96.3 FM"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://192.187.112.50:8048/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacaliforniasur/"
+            }
+        ],
+        "genre": "Baja California Sur",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacaliforniasur/radium-la-paz.png",
+        "time": "",
+        "title": "Ra FM"
+    },
+	{
+        "streams": [
+            {
+                "playlist": ["http://148.231.3.56/mxl"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacaliforniasur/"
+            }
+        ],
+        "genre": "Baja California Sur",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacaliforniasur/uabc-radio-104-1-fm.png",
+        "time": "",
+        "title": "UABC Radio"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://95.211.115.197:8227/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacaliforniasur/"
+            }
+        ],
+        "genre": "Baja California Sur",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacaliforniasur/radio-contacto-los-cabos.png",
+        "time": "",
+        "title": "Contacto los Cabos"
+    },
+	{
+        "streams": [
+            {
+                "playlist": ["http://www.misionfm.com:8080/Superstereo96"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacaliforniasur/"
+            }
+        ],
+        "genre": "Baja California Sur",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacaliforniasur/mision-fm-92-5.png",
+        "time": "",
+        "title": "Misión FM"
+    }
+]}

@@ -237,20 +237,6 @@
     },{
         "streams": [
             {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/campeche/playlist.m3u"
-            }
-        ],
-        "genre": "Campeche",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/campeche/",
-        "time": "",
-        "title": ""
-    },{
-        "streams": [
-            {
                 "playlist": ["http://sc1.streamingchoice.com:9180/"],
                 "bitrate": 24,
                 "metaint": true,

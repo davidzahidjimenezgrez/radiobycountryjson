@@ -1,0 +1,546 @@
+{"items": [
+    {
+        "streams": [
+            {
+                "playlist": ["http://162.144.96.212:8000/cadena1010"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/cadena-1010-am-mexicali.png",
+        "time": "",
+        "title": "Caneda 1010 AM"
+    },
+	{
+        "streams": [
+            {
+                "playlist": ["http://stream2.dyndns.org:8000/xhebc.mp3"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/la-ke-buena-97-9-fm-ensenada.png",
+        "time": "",
+        "title": "Ke Buena 97.9 FM"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://192.173.28.42/XHADA_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/exa-106-9-fm-ensenada.png",
+        "time": "",
+        "title": "Ponte Exa 106.9 FM"
+    },
+	{
+        "streams": [
+            {
+                "playlist": ["http://stream2.dyndns.org:8000/xhat.mp3"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/40-principales-101-1-fm-ensenada.png",
+        "time": "",
+        "title": "40 Pricipales 101.1"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://stream2.dyndns.org:8000/xhmc.mp3"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/estereo-vida-104-9-fm-mexicali.png",
+        "time": "",
+        "title": "Stereo Vida 104.9"
+    },
+	{
+        "streams": [
+            {
+                "playlist": ["http://stream2.dyndns.org:8000/xhsu.mp3"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/la-dinamic-105-9-fm-y-790-am-mexicali.png",
+        "time": "",
+        "title": "La Dinamica 105.9"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://208.80.54.31/XEDAFM_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/imagen-105-5-fm-mexicali.png",
+        "time": "",
+        "title": "Imagen Radio 105.5"
+    },
+	{
+        "streams": [
+            {
+                "playlist": ["http://192.173.28.34/XHVGFM_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/la-mejor-103-3-fm-mexicali.png",
+        "time": "",
+        "title": "La Mejor FM 103.3"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://stream2.dyndns.org:8000/xhmmf.mp3"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/la-poderosa-fm-92-3-mexicali.png",
+        "time": "",
+        "title": "La Poderosa 92.3"
+    },
+	{
+        "streams": [
+            {
+                "playlist": ["http://stream2.dyndns.org:8000/xed.mp3"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/sigloxxi-1050-am-mexicali.png",
+        "time": "",
+        "title": "Siglo XXI 1050 AM"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://s4.viastreaming.net:9010/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/la-tremenda-1030-am-mexicali.png",
+        "time": "",
+        "title": "la Tremenda 1030 AM"
+    },
+	{
+        "streams": [
+            {
+                "playlist": ["http://stream2.dyndns.org:8000/xecl.mp3"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/la-rocola-990-am-mexicali.png",
+        "time": "",
+        "title": "La Rocola 990 AM"
+    },	{
+        "streams": [
+            {
+                "playlist": ["http://stream2.dyndns.org:8000/xegh.mp3"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/romantica-1370-am-mexicali.png",
+        "time": "",
+        "title": "Romantica 1370 AM"
+    },	{
+        "streams": [
+            {
+                "playlist": ["http://stream2.dyndns.org:8000/xhsol.mp3"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/tu-recuerdo-89-9-fm-mexicali.png",
+        "time": "",
+        "title": "Tu Recuerdo 89.9 FM"
+    },	{
+        "streams": [
+            {
+                "playlist": ["http://206.217.207.207:6142/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/la-estacion-del-amor-ensenada.png",
+        "time": "",
+        "title": "La Estación del Amor"
+    },	{
+        "streams": [
+            {
+                "playlist": ["http://192.173.28.34/LACALIENTE_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/radio-milenio-95-3-fm-tijuana.png",
+        "time": "",
+        "title": "95.3 FM"
+    },	{
+        "streams": [
+            {
+                "playlist": ["http://162.144.96.212:8000/cadena1550"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/cadena-1550-am-tijuana.png",
+        "time": "",
+        "title": "Cadena 1550 AM"
+    },	{
+        "streams": [
+            {
+                "playlist": ["http://192.99.2.31:8020/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/conexion-fm-tijuana.png",
+        "time": "",
+        "title": "Conexion FM"
+    },	{
+        "streams": [
+            {
+                "playlist": ["http://208.80.54.96/XHGLX_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/exa-91-7-fm-tijuana.png",
+        "time": "",
+        "title": "Ponte EXA 91.7"
+    },	{
+        "streams": [
+            {
+                "playlist": ["http://s7.viastreaming.net:8565/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/radio-enciso-1310-am-tijuana.png",
+        "time": "",
+        "title": "Radio Enciso 1310 AM"
+    },	{
+        "streams": [
+            {
+                "playlist": ["http://208.80.54.57/XLTNFM_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/radio-latina-104-5-fm-tijuana.png",
+        "time": "",
+        "title": "Latina 104.5 FM"
+    },	{
+        "streams": [
+            {
+                "playlist": ["http://s1.radiorama.com.mx:7564/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/vida-1420-am-tijuana.png",
+        "time": "",
+        "title": "Vida 1420 AM"
+    },	{
+        "streams": [
+            {
+                "playlist": ["http://208.80.54.45/XHPFFM_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/globo-101-9-fm-mexicali.png",
+        "time": "",
+        "title": "Globo 101.9 FM"
+    },	{
+        "streams": [
+            {
+                "playlist": ["http://208.80.54.45/XHPFFM_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/uni-radio-1470-am-tijuana.png",
+        "time": "",
+        "title": "UniRadio"
+    },	{
+        "streams": [
+            {
+                "playlist": ["http://200.77.221.3:8000/radio"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/udci-radio-tijuana.png",
+        "time": "",
+        "title": "UDCI Radio"
+    },	{
+        "streams": [
+            {
+                "playlist": ["http://200.77.221.3:8000/radio"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/la-caliente-95-3-fm-tijuana.png",
+        "time": "",
+        "title": "La caliente 95.3 FM"
+    },	{
+        "streams": [
+            {
+                "playlist": ["http://208.80.54.31/XHJCFM_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/exa-91-5-fm-mexicali.png",
+        "time": "",
+        "title": "EXA 91.5 FM"
+    },	{
+        "streams": [
+            {
+                "playlist": ["http://192.173.28.36/XHJCFM_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/la-mejor-fm-90-7-tijuana.png",
+        "time": "",
+        "title": "La Mejor 90.7 FM"
+    },	{
+        "streams": [
+            {
+                "playlist": ["http://64.15.187.58:8000/mexicali"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/radio-formula-primera-cadena-1150-am-mexicali.png",
+        "time": "",
+        "title": "Mexicali 1150 AM"
+    },	{
+        "streams": [
+            {
+                "playlist": ["http://162.144.96.212:8000/morefm1067"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/more-fm-106-7-mexicali.png",
+        "time": "",
+        "title": "More FM 106.7"
+    },	{
+        "streams": [
+            {
+                "playlist": ["http://162.144.96.212:8000/cadena800"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/noticias-800-am-tijuana.png",
+        "time": "",
+        "title": "Cadena 800 AM"
+    },	{
+        "streams": [
+            {
+                "playlist": ["http://162.144.96.212:8000/morefm989"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/more-98-9-fm-tijuana.png",
+        "time": "",
+        "title": "More FM 98.9"
+    },	{
+        "streams": [
+            {
+                "playlist": ["http://108.163.173.130:18300/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/xs-92-9-fm-ensenada.png",
+        "time": "",
+        "title": "XS 92.9 FM"
+    },	{
+        "streams": [
+            {
+                "playlist": ["http://162.144.96.212:8000/cadena1190"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/cadena-1190-am-mexicali.png",
+        "time": "",
+        "title": "Cadena 1190 AM"
+    },	{
+        "streams": [
+            {
+                "playlist": ["http://148.231.3.56/mxl"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/uabc-radio-mexicali.png",
+        "time": "",
+        "title": "UABC RADIO"
+    },	{
+        "streams": [
+            {
+                "playlist": ["http://stream2.dyndns.org:8000/xhepf.mp3"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/stereo-vida-89-1-fm-ensenada.png",
+        "time": "",
+        "title": "Stereo Vida 1400 AM"
+    },	{
+        "streams": [
+            {
+                "playlist": ["http://208.80.54.31/XEDAFM_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/imagen-90-5-fm-tijuana.png",
+        "time": "",
+        "title": "Imagen Radio 90.5 AM"
+    },	{
+        "streams": [
+            {
+                "playlist": ["http://204.45.15.50:2124/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/invasora-99-7-fm-tijuana.png",
+        "time": "",
+        "title": "Invasora 99.7"
+    }
+]}

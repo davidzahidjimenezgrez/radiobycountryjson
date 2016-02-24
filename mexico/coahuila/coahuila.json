@@ -224,7 +224,8 @@
         "time": "",
         "title": "Saltillo 93.5 FM"
     },   
-	{     "streams": [
+	{     
+		"streams": [
             {
                 "playlist": ["http://208.80.54.45/XESACFM_SC"],
                 "bitrate": 24,
@@ -237,7 +238,9 @@
         "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/milenio-radio-99-3-fm-saltillo.png",
         "time": "",
         "title": "Milenio 99.3 FM"
-    }, {       "streams": [
+    }, 
+	{       
+		"streams": [
             {
                 "playlist": ["http://208.80.54.31/XEDAFM_SC"],
                 "bitrate": 24,
@@ -250,7 +253,9 @@
         "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/radio-imagen-94-7-fm-saltillo.png",
         "time": "",
         "title": "Imagen Radii 94.7 FM"
-    },  {      "streams": [
+    },  
+	{    
+		"streams": [
             {
                 "playlist": ["http://192.173.28.58/XHCLOFM_SC"],
                 "bitrate": 24,
@@ -263,7 +268,9 @@
         "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/la-caliente-107-1-fm-monclova.png",
         "time": "",
         "title": "La Caliente 107.1 FM"
-    },   {     "streams": [
+    },   
+	{     
+		"streams": [
             {
                 "playlist": ["http://radio.alphamx.net:8068/"],
                 "bitrate": 24,
@@ -276,7 +283,9 @@
         "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/imagen-radio-100-3-fm-torreon.png",
         "time": "",
         "title": "Imagen Radio 100.3 FM"
-    },  {      "streams": [
+    },  
+	{     
+		"streams": [
             {
                 "playlist": ["http://72.249.55.100:9996/"],
                 "bitrate": 24,
@@ -289,7 +298,9 @@
         "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/super-fm-99-5-monclova.png",
         "time": "",
         "title": "Super 99.5 FM"
-    },  {      "streams": [
+    },  
+	{      
+		"streams": [
             {
                 "playlist": ["http://208.80.54.98/XHPNSFM_SC"],
                 "bitrate": 24,
@@ -302,7 +313,9 @@
         "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/amor-107-1-fm-piedras-negras.png",
         "time": "",
         "title": "Amor 107.1 FM"
-    },  {      "streams": [
+    },  
+	{
+		"streams": [
             {
                 "playlist": ["http://208.80.54.26/XHCDUFM_SC"],
                 "bitrate": 24,
@@ -315,7 +328,9 @@
         "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/super-estelar-92-9-fm-ciudad-acuna.png",
         "time": "",
         "title": "Super Estelar 92.9"
-    },   {     "streams": [
+    },   
+	{     
+		"streams": [
             {
                 "playlist": ["http://stream2.dyndns.org:8000/xhyd"],
                 "bitrate": 24,
@@ -328,7 +343,9 @@
         "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/la-mexicana-105-1-fm-torreon.png",
         "time": "",
         "title": "La Mexicana 105.1 FM"
-    },  {      "streams": [
+    },  
+	{      
+		"streams": [
             {
                 "playlist": ["http://72.249.55.100:9890/"],
                 "bitrate": 24,
@@ -341,7 +358,9 @@
         "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/la-furia-del-norte-104-1-fm-monclova.png",
         "time": "",
         "title": "La Furia del Norte"
-    },   {     "streams": [
+    },   
+	{    
+		"streams": [
             {
                 "playlist": ["http://208.80.54.77/XHIKFM_SC"],
                 "bitrate": 24,
@@ -354,7 +373,9 @@
         "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/http://208.80.54.77/XHIKFM_SC",
         "time": "",
         "title": "La 96.7 FM"
-    },   {     "streams": [
+    },   
+	{ 
+		"streams": [
             {
                 "playlist": ["http://radio.inimusic.com:7344/"],
                 "bitrate": 24,
@@ -367,7 +388,9 @@
         "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/radio-bebe-fm.png",
         "time": "",
         "title": "Radio Bebe FM"
-    },  {      "streams": [
+    },
+	{  
+		"streams": [
             {
                 "playlist": ["http://208.43.9.106:8154/"],
                 "bitrate": 24,
@@ -380,7 +403,9 @@
         "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/la-reina-100-9-fm.png",
         "time": "",
         "title": "La Reina 100.9 FM"
-    },   {     "streams": [
+    },
+	{     
+		"streams": [
             {
                 "playlist": ["http://radio.animenexus.mx:8000/animenexus"],
                 "bitrate": 24,
@@ -393,7 +418,9 @@
         "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/anime-nexus.png",
         "time": "",
         "title": "Anime Nexus"
-    },   {     "streams": [
+    },
+	{
+		"streams": [
             {
                 "playlist": ["http://69.31.54.140/XHTAFM_SC"],
                 "bitrate": 24,
@@ -406,7 +433,9 @@
         "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/dinamica-94-5-fm.png",
         "time": "",
         "title": "Dinamica 94.5 FM"
-    },   {     "streams": [
+    },
+	{    
+		"streams": [
             {
                 "playlist": ["http://208.80.54.77/XHPCFM_SC"],
                 "bitrate": 24,
@@ -419,7 +448,9 @@
         "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/super-estelar-107-9-fm.png",
         "time": "",
         "title": "Super Estelar 107.9 FM"
-    },  {      "streams": [
+    },
+	{   
+		"streams": [
             {
                 "playlist": ["http://192.99.35.215:5025/xevd_remoto"],
                 "bitrate": 24,

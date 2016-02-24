@@ -1,0 +1,494 @@
+{"items": [
+    {
+        "streams": [
+            {
+                "playlist": ["http://stream2.dyndns.org:8000/xegz"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/milenio-radio-99-5-fm-y-790-am-torreon.png",
+        "time": "",
+        "title": "Milenio Radio 99.5 FM"
+    },
+	{
+        "streams": [
+            {
+                "playlist": ["http://stream2.dyndns.org:8000/xhsg"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/estereo-vida-99-9-fm-piedras-negras.png",
+        "time": "",
+        "title": "Estereo Vida 99.9 FM"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://50.7.29.178:9984/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/la-primera-610-am-sabinas.png",
+        "time": "",
+        "title": "La Primera 610 AM"
+    },
+	{
+        "streams": [
+            {
+                "playlist": ["http://stream.redcoahuila.net:8130/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/radio-saltillo-1250-am-y-103-3-fm-saltillo.png",
+        "time": "",
+        "title": "1250 AM"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://212.83.135.226:7326/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/la-rancherita-del-aire-580-y-103-7-fm-piedras-negras.png",
+        "time": "",
+        "title": "La Rancherita 103.7 FM"
+    },
+	{
+        "streams": [
+            {
+                "playlist": [""],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/",
+        "time": "",
+        "title": ""
+    },
+    {
+        "streams": [
+            {
+                "playlist": [""],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/",
+        "time": "",
+        "title": ""
+    },
+	{
+        "streams": [
+            {
+                "playlist": [""],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/",
+        "time": "",
+        "title": ""
+    },
+    {
+        "streams": [
+            {
+                "playlist": [""],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/",
+        "time": "",
+        "title": ""
+    },
+	{
+        "streams": [
+            {
+                "playlist": [""],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/",
+        "time": "",
+        "title": ""
+    },
+    {
+        "streams": [
+            {
+                "playlist": [""],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/",
+        "time": "",
+        "title": ""
+    },
+	{
+        "streams": [
+            {
+                "playlist": [""],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/",
+        "time": "",
+        "title": ""
+    },        "streams": [
+            {
+                "playlist": [""],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/",
+        "time": "",
+        "title": ""
+    },        "streams": [
+            {
+                "playlist": [""],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/",
+        "time": "",
+        "title": ""
+    },        "streams": [
+            {
+                "playlist": [""],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/",
+        "time": "",
+        "title": ""
+    },        "streams": [
+            {
+                "playlist": [""],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/",
+        "time": "",
+        "title": ""
+    },        "streams": [
+            {
+                "playlist": [""],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/",
+        "time": "",
+        "title": ""
+    },        "streams": [
+            {
+                "playlist": [""],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/",
+        "time": "",
+        "title": ""
+    },        "streams": [
+            {
+                "playlist": [""],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/",
+        "time": "",
+        "title": ""
+    },        "streams": [
+            {
+                "playlist": [""],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/",
+        "time": "",
+        "title": ""
+    },        "streams": [
+            {
+                "playlist": [""],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/",
+        "time": "",
+        "title": ""
+    },        "streams": [
+            {
+                "playlist": [""],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/",
+        "time": "",
+        "title": ""
+    },        "streams": [
+            {
+                "playlist": [""],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/",
+        "time": "",
+        "title": ""
+    },        "streams": [
+            {
+                "playlist": [""],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/",
+        "time": "",
+        "title": ""
+    },        "streams": [
+            {
+                "playlist": [""],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/",
+        "time": "",
+        "title": ""
+    },        "streams": [
+            {
+                "playlist": [""],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/",
+        "time": "",
+        "title": ""
+    },        "streams": [
+            {
+                "playlist": [""],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/",
+        "time": "",
+        "title": ""
+    },        "streams": [
+            {
+                "playlist": [""],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/",
+        "time": "",
+        "title": ""
+    },        "streams": [
+            {
+                "playlist": [""],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/",
+        "time": "",
+        "title": ""
+    },        "streams": [
+            {
+                "playlist": [""],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/",
+        "time": "",
+        "title": ""
+    },        "streams": [
+            {
+                "playlist": [""],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/",
+        "time": "",
+        "title": ""
+    },        "streams": [
+            {
+                "playlist": [""],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/",
+        "time": "",
+        "title": ""
+    },        "streams": [
+            {
+                "playlist": [""],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/",
+        "time": "",
+        "title": ""
+    },        "streams": [
+            {
+                "playlist": [""],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/",
+        "time": "",
+        "title": ""
+    },        "streams": [
+            {
+                "playlist": [""],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/",
+        "time": "",
+        "title": ""
+    },        "streams": [
+            {
+                "playlist": [""],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/",
+        "time": "",
+        "title": ""
+    }
+]}

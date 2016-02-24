@@ -1,0 +1,504 @@
+{"items": [
+    {
+        "streams": [
+            {
+                "playlist": ["http://50.7.29.178:9974/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/antena-102-5-fm-chihuahua.png",
+        "time": "",
+        "title": "Antena 102.5 FM"
+    },
+	{
+        "streams": [
+            {
+                "playlist": ["http://stream2.dyndns.org:8000/xhfa"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/la-poderosa-89-3-fm-y-950-am-chihuahua.png",
+        "time": "",
+        "title": "La Poderosa 89.3 FM"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://72.29.80.105:7064/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/la-jefa-radio-96-1-fm-ciudad-camargo.png",
+        "time": "",
+        "title": "La Jefa 96.1 FM"
+    },
+	{
+        "streams": [
+            {
+                "playlist": ["http://212.83.172.242:8012/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/la-ranchera-de-cuauhtemoc-89-7-fm.png",
+        "time": "",
+        "title": "La Ranchera 89.7 FM"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://208.80.54.97/XEDAFM_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/radio-imagen-97-3-fm-chihuahua.png",
+        "time": "",
+        "title": "Imagen 97.3 FM"
+    },
+	{
+        "streams": [
+            {
+                "playlist": ["http://64.15.187.58:8000/juarez"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/radio-formula-primesa-cadena-1030-am-ciudad-juarez.png",
+        "time": "",
+        "title": "Cadena 1030AM"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://stream2.dyndns.org:8000/xhua"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/stereo-vida-90-1-fm-chihuahua.png",
+        "time": "",
+        "title": "Vida 90.1 FM"
+    },
+	{
+        "streams": [
+            {
+                "playlist": ["http://stream2.dyndns.org:8000/xhsb"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/la-mexicana-94-9-fm-y-810-am-hidalgo-de-parral.png",
+        "time": "",
+        "title": "La Mexicana 94.9 FM"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://69.31.54.136/XHSBT_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/exa-100-9-fm-chihuahua.png",
+        "time": "",
+        "title": "EXA 100.9 FM"
+    },
+	{
+        "streams": [
+            {
+                "playlist": ["http://radio.promosat.com:8122/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/fiesta-mexicana-94-5-fm-delicias.png",
+        "time": "",
+        "title": "Fiesta 94.5 FM"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://stream2.dyndns.org:8000/xehes"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/siglo-xxi-1040-am-chihuahua.png",
+        "time": "",
+        "title": "Siglo XXI 1040 AM"
+    },
+	{
+        "streams": [
+            {
+                "playlist": ["http://212.83.172.242:8048/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/la-poderosa-100-9-fm-ojinaga.png",
+        "time": "",
+        "title": "la Poderosa 100.9 FM"
+    },{
+        "streams": [
+            {
+                "playlist": ["http://208.80.52.67/XHSNPFM_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/la-caliente-102-5-fm-hidalgo-del-parral.png",
+        "time": "",
+        "title": "La Caliente 102.5 FM"
+    },{
+        "streams": [
+            {
+                "playlist": ["http://198.50.113.170:9272/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/la-que-buena-de-san-buena-99-5-fm-nuevo-casas-grande.png",
+        "time": "",
+        "title": "La Que Buena 99.5"
+    },{
+        "streams": [
+            {
+                "playlist": ["http://stream2.dyndns.org:8000/xhrpc"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/estereo-fiesta-99-3-fm-chihuahua.png",
+        "time": "",
+        "title": "Fiesta 99.3 FM"
+    },{
+        "streams": [
+            {
+                "playlist": ["http://192.173.28.42/XHCHHFM_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/d95-94-9-fm-chihuahua.png",
+        "time": "",
+        "title": "D95 94.9 FM"
+    },{
+        "streams": [
+            {
+                "playlist": ["http://192.173.28.42/XHHPRFM_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/radio-parral-101-7-fm-hidalgo-del-parral.png",
+        "time": "",
+        "title": "Parral 101.7 FM"
+    },{
+        "streams": [
+            {
+                "playlist": ["http://stream2.dyndns.org:8000/xhhb"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/la-ke-buena-fm-107-1-hidalgo-de-parral.png",
+        "time": "",
+        "title": "La Ke Buena 107.1 FM"
+    },{
+        "streams": [
+            {
+                "playlist": ["http://208.80.54.27/XHCHAFM_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/hits-fm-104-5-chihuahua.png",
+        "time": "",
+        "title": "HITS 104.5 FM"
+    },{
+        "streams": [
+            {
+                "playlist": ["http://69.31.54.142/XHCTCFM_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/la-caliente-99-9-fm-ciudad-cuauhtemoc.png",
+        "time": "",
+        "title": "La Caliente 99.9"
+    },{
+        "streams": [
+            {
+                "playlist": ["http://212.83.172.242:8030/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/estereo-romance-92-9-fm-ciudad-cuauhtemoc",
+        "time": "",
+        "title": "Estereo Romance 92.9 FM"
+    },{
+        "streams": [
+            {
+                "playlist": ["http://192.173.28.38/XHHEMFM_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/milenio-radio-103-7-fm-chihuahua.png",
+        "time": "",
+        "title": "Milenio 103.7 fm"
+    },{
+        "streams": [
+            {
+                "playlist": ["http://208.80.54.67/XHAHCFM_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/la-caliente-90-9-fm-chihuahua.png",
+        "time": "",
+        "title": "La Caliente 90.9 FM"
+    },{
+        "streams": [
+            {
+                "playlist": ["http://208.80.54.56/XEZOL_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/radio-noticias-860-am-ciudad-juarez.png",
+        "time": "",
+        "title": "Radio Noticias 860 AM"
+    },{
+        "streams": [
+            {
+                "playlist": ["http://212.83.172.242:8024/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/la-sabrosita-104-1-fm-ciudad-cuauhtemoc.png",
+        "time": "",
+        "title": "La Sabrosita 104.1 FM"
+    },{
+        "streams": [
+            {
+                "playlist": ["http://50.7.29.178:9890/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/flaming-stereo-93-7-fm-ciudad-delicias.png",
+        "time": "",
+        "title": "Flamingo 93.7 FM"
+    },{
+        "streams": [
+            {
+                "playlist": ["http://200.66.39.11:8040/xstream"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/la-tremenda-96-9-fm-parral.png",
+        "time": "",
+        "title": "La Tremenda 96.9 FM"
+    },{
+        "streams": [
+            {
+                "playlist": ["http://stream2.dyndns.org:8000/xhdi"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/la-nueva-88-5-fm-chihuahua.png",
+        "time": "",
+        "title": "La Nueva 88.5 FM"
+    },{
+        "streams": [
+            {
+                "playlist": ["http://stream2.dyndns.org:8000/xefi"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/radio-mexicana-580-am-chihuahua.png",
+        "time": "",
+        "title": "Mexicana 580 AM"
+    },{
+        "streams": [
+            {
+                "playlist": ["http://stream2.dyndns.org:8000/xefo"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/extasis-digital-680-am-chihuahua.png",
+        "time": "",
+        "title": "Extasis 680 AM"
+    },{
+        "streams": [
+            {
+                "playlist": ["http://198.50.113.170:9268/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/la-ranchera-540-am-casas-grandes.png",
+        "time": "",
+        "title": "La Ranchera 540 AM"
+    },{
+        "streams": [
+            {
+                "playlist": ["http://usa1.fastcast4u.com:2626/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/la-lupe-98-8-fm-y-660-am-ciudad-delicias.png",
+        "time": "",
+        "title": "La Lupe 98.8 FM"
+    },{
+        "streams": [
+            {
+                "playlist": ["http://212.83.172.242:8066/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/xejua-640-am-cd-juarez.png",
+        "time": "",
+        "title": "XEJUA 640 AM"
+    },{
+        "streams": [
+            {
+                "playlist": ["http://212.83.172.242:8060/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/xejs-1150-am-parral.png",
+        "time": "",
+        "title": "1150 AM"
+    },{
+        "streams": [
+            {
+                "playlist": ["http://198.50.113.170:9270/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/la-sabrosita-104-9-fm-nuevo-casas-grandes.png",
+        "time": "",
+        "title": "La Sabrosita 104.9 FM"
+    }
+]}

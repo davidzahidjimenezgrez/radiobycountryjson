@@ -1,0 +1,54 @@
+{
+    "station":
+    [
+     {
+     "name": "La Mejor 92.5 FM",
+     "streamURL": "http://192.173.28.58/XHRO_SC",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/colima/la-mejor-92-5-fm-colima.png",
+     "desc": "Colima",
+     "longDesc": ""
+     },
+     {
+     "name": "LOS 40 PRINCIPALES 91.3 FM",
+     "streamURL": "http://stream2.dyndns.org:8000/xhty.mp3/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/colima/los-40-principales-91-3-fm-y-1390-am-tecoman.png",
+     "desc": "Colima",
+     "longDesc": ""
+     },
+     {
+     "name": "IMAGEN RADIO 89.3 FM",
+     "streamURL": "http://208.80.54.29/XEDAFM_SC",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/colima/radio-imagen-89-3-fm-colima.png",
+     "desc": "Colima",
+     "longDesc": ""
+     },
+     {
+     "name": "Ke Buena 90.5 FM",
+     "streamURL": "http://stream2.dyndns.org:8000/xheco.mp3",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/colima/ke-buena-90-5-fm-tecoman.png",
+     "desc": "Colima",
+     "longDesc": ""
+     },
+     {
+     "name": "CAPITAL 104.5 FM",
+     "streamURL": "http://208.80.54.66/XHTTT_SC",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/colima/capital-104-5-fm-colima.png",
+     "desc": "Colima",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio San Nicolas de Bari",
+     "streamURL": "http://server15.ahserver.info:8006/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/colima/san-nicolas-de-bari-radio.png",
+     "desc": "Colima",
+     "longDesc": ""
+     },
+     {
+     "name": "Sol 89.7 FM",
+     "streamURL": "http://zer.zuperdns.net:1895/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/colima/sol-89-7-89-7-fm.png",
+     "desc": "Colima",
+     "longDesc": ""
+     },
+     ]
+ }

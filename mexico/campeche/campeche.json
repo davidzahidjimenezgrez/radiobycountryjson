@@ -1,49 +1,4 @@
 {"items": [
-    {
-        "streams": [
-            {
-                "playlist": ["http://192.173.28.39/XHVEFM_SC"],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/campeche/playlist.m3u"
-            }
-        ],
-        "genre": "Campeche",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/campeche/la-mejor-100-5-fm-cd-del-carmen.png",
-        "time": "",
-        "title": "La Mejor 100.5 FM"
-    },
-	{
-        "streams": [
-            {
-                "playlist": ["http://198.245.51.113:8150"],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/campeche/playlist.m3u"
-            }
-        ],
-        "genre": "Campeche",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/campeche/voces-920-am-tenabo.png",
-        "time": "",
-        "title": "Voces 920 AM"
-    },
-    {
-        "streams": [
-            {
-                "playlist": ["http://sc1.streamingchoice.com:9085/"],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/campeche/playlist.m3u"
-            }
-        ],
-        "genre": "Campeche",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/campeche/radio-delfin-88-9-fm-cd-del-carmen.png",
-        "time": "",
-        "title": "Radio Delfin 88.9 FM"
-    },
 	
     {
         "streams": [

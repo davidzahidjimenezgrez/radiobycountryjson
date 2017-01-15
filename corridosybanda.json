@@ -1,4 +1,27 @@
 {"items": [
+   
+            {
+        "corridosybanda": [
+            {
+                "playlist": ["http://62.210.129.133:8008/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": ""
+            },
+            {
+                "playlist": ["http://62.210.129.133:8008/"],
+                "bitrate": 128,
+                "metaint": true,
+                "live": true,
+                "url_m3u": ""
+            }
+        ],
+        "genre": "Musica Regional Mexicana",
+        "logo": "http://cdn.sonicomusica.net/user/R/RegionalMexicano/musica-regional-mexicana-2.jpg",
+        "time": "Radio",
+        "title": "Corridos y Banda"
+},
          {
         "corridosybanda": [
             {
@@ -24,14 +47,14 @@
             {
         "corridosybanda": [
             {
-                "playlist": ["http://62.210.129.133:8008/"],
+                "playlist": ["http://192.187.112.50:8257/stream"],
                 "bitrate": 24,
                 "metaint": true,
                 "live": true,
                 "url_m3u": ""
             },
             {
-                "playlist": ["http://62.210.129.133:8008/"],
+                "playlist": ["http://192.187.112.50:8257/stream"],
                 "bitrate": 128,
                 "metaint": true,
                 "live": true,
@@ -39,8 +62,8 @@
             }
         ],
         "genre": "Musica Regional Mexicana",
-        "logo": "http://cdn.sonicomusica.net/user/R/RegionalMexicano/musica-regional-mexicana-2.jpg",
+        "logo": "http://cdn-radiotime-logos.tunein.com/s190365q.png",
         "time": "Radio",
-        "title": "Corridos y Banda"
+        "title": "Corridos, Banda, Mariachi y más"
 }
  ]}

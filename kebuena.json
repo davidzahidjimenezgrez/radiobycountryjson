@@ -3,14 +3,14 @@
   {
         "stream": [
             {
-                "playlist": ["http://14073.live.streamtheworld.com/KEBUENAAAC"],
+                "playlist": ["http://stream2.dyndns.org:8000/xexw.mp3"],
                 "bitrate": 24,
                 "metaint": true,
                 "live": true,
                 "url_m3u": ""
             },
             {
-                "playlist": ["http://14073.live.streamtheworld.com/KEBUENAAAC"],
+                "playlist": ["http://stream2.dyndns.org:8000/xexw.mp3"],
                 "bitrate": 128,
                 "metaint": true,
                 "live": true,
@@ -18,7 +18,7 @@
             }
         ],
         "genre": "Ke Buena",
-        "logo": "http://www.kebuena.com.mx/wp-content/themes/kebuena-outspoken/images/logo.png",
+        "logo": "http://cdn-radiotime-logos.tunein.com/s90215q.png",
         "time": "Radio",
         "title": "Ke Buena"
 },
@@ -42,6 +42,51 @@
         ],
         "genre": "Mexicali",
         "logo": "http://www.kebuena.com.mx/wp-content/themes/kebuena-outspoken/images/logo.png",
+        "time": "Radio",
+        "title": "Ke Buena Radio"
+},
+       {
+        "stream": [
+            {
+                "playlist": ["http://stream2.dyndns.org:8000/xheco.mp3"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": ""
+            },
+            {
+                "playlist": ["http://stream2.dyndns.org:8000/xheco.mp3"],
+                "bitrate": 128,
+                "metaint": true,
+                "live": true,
+                "url_m3u": ""
+            }
+        ],
+        "genre": "Mexicali",
+        "logo": "http://cdn-radiotime-logos.tunein.com/s87910q.png",
+        "time": "Radio",
+        "title": "Ke Buena Radio"
+},
+  
+       {
+        "stream": [
+            {
+                "playlist": ["http://216.55.186.61:8059/stream"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": ""
+            },
+            {
+                "playlist": ["http://216.55.186.61:8059/stream"],
+                "bitrate": 128,
+                "metaint": true,
+                "live": true,
+                "url_m3u": ""
+            }
+        ],
+        "genre": "Mexicali",
+        "logo": "http://cdn-radiotime-logos.tunein.com/s90665q.png",
         "time": "Radio",
         "title": "Ke Buena Radio"
 }

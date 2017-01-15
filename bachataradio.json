@@ -22,7 +22,7 @@
         "title": "Bachata Radio"
 },
             {
-        "corridosybanda": [
+        "stream": [
             {
                 "playlist": ["http://radio.domiplay.net:8002"],
                 "bitrate": 24,

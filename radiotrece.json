@@ -1,0 +1,26 @@
+{"items": [
+
+  {
+        "stream": [
+            {
+                "playlist": ["http://www.tuasesorweb.com:8050/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": ""
+            },
+            {
+                "playlist": ["http://www.tuasesorweb.com:8050/"],
+                "bitrate": 128,
+                "metaint": true,
+                "live": true,
+                "url_m3u": ""
+            }
+        ],
+        "genre": "Radio Trece Uno",
+        "logo": "http://cdn-radiotime-logos.tunein.com/s24525q.png",
+        "time": "Radio",
+        "title": "Radio Trece Uno"
+}
+     
+ ]}

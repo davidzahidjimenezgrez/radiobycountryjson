@@ -1,0 +1,26 @@
+{"items": [
+
+  {
+        "stream": [
+            {
+                "playlist": ["http://gpazos.centrocibernetico.com:42000/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": ""
+            },
+            {
+                "playlist": ["http://gpazos.centrocibernetico.com:42000/"],
+                "bitrate": 128,
+                "metaint": true,
+                "live": true,
+                "url_m3u": ""
+            }
+        ],
+        "genre": "Fusion 90.1",
+        "logo": "https://top-radio.org/wp-content/uploads/logo/MzwytyBQjG.jpg",
+        "time": "Radio",
+        "title": "Fusion 90.1 Radio"
+}
+     
+ ]}

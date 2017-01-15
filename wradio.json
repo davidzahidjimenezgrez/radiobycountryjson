@@ -1,0 +1,48 @@
+{"items": [
+
+  {
+        "stream": [
+            {
+                "playlist": ["http://14923.live.streamtheworld.com:3690/W_RADIO_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": ""
+            },
+            {
+                "playlist": ["http://14923.live.streamtheworld.com:3690/W_RADIO_SC"],
+                "bitrate": 128,
+                "metaint": true,
+                "live": true,
+                "url_m3u": ""
+            }
+        ],
+        "genre": "WRADIO",
+        "logo": "http://cdn-radiotime-logos.tunein.com/s24525q.png",
+        "time": "Radio",
+        "title": "WRADIO"
+},
+  {
+        "stream": [
+            {
+                "playlist": ["http://17983.live.streamtheworld.com:3690/WRADIO_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": ""
+            },
+            {
+                "playlist": ["http://17983.live.streamtheworld.com:3690/WRADIO_SC"],
+                "bitrate": 128,
+                "metaint": true,
+                "live": true,
+                "url_m3u": ""
+            }
+        ],
+        "genre": "WRADIO",
+        "logo": "http://cdn-radiotime-logos.tunein.com/s117771q.png",
+        "time": "Radio",
+        "title": "WRADIO"
+}
+     
+ ]}

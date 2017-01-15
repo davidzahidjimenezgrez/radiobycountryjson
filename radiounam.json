@@ -1,0 +1,26 @@
+{"items": [
+
+  {
+        "stream": [
+            {
+                "playlist": ["http://server1.usatelk.com:27547/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": ""
+            },
+            {
+                "playlist": ["http://server1.usatelk.com:27547/"],
+                "bitrate": 128,
+                "metaint": true,
+                "live": true,
+                "url_m3u": ""
+            }
+        ],
+        "genre": "RADIO UNAM",
+        "logo": "http://www.radiopodcast.unam.mx/series/portada/17-radio_unam_logo_frecuencia_276x156.jpg",
+        "time": "Radio",
+        "title": "RADIO UNAM Radio"
+}
+     
+ ]}

@@ -47,14 +47,14 @@
             {
         "corridosybanda": [
             {
-                "playlist": ["http://192.187.112.50:8257/stream"],
+                "playlist": ["http://s6.voscast.com:10144"],
                 "bitrate": 24,
                 "metaint": true,
                 "live": true,
                 "url_m3u": ""
             },
             {
-                "playlist": ["http://192.187.112.50:8257/stream"],
+                "playlist": ["http://s6.voscast.com:10144"],
                 "bitrate": 128,
                 "metaint": true,
                 "live": true,

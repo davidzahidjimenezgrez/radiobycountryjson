@@ -26,14 +26,14 @@
       {
         "stream": [
             {
-                "playlist": ["http://17933.live.streamtheworld.com:3690/KLCKFM_SC/"],
+                "playlist": ["http://streaming.radio.co/s80a4bc54c/listen"],
                 "bitrate": 24,
                 "metaint": true,
                 "live": true,
                 "url_m3u": ""
             },
             {
-                "playlist": ["http://17933.live.streamtheworld.com:3690/KLCKFM_SC/"],
+                "playlist": ["http://streaming.radio.co/s80a4bc54c/listen"],
                 "bitrate": 128,
                 "metaint": true,
                 "live": true,
@@ -41,7 +41,7 @@
             }
         ],
         "genre": "Classic Rock",
-        "logo": "https://pbs.twimg.com/profile_images/439475872806862848/QN_jpbsk.png",
+        "logo": "https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/d/f/c/2/ce66-2f1b-42aa-b863-caf0ea3f7640.jpg",
         "time": "Radio",
         "title": "Classic Rock Radio"
 },

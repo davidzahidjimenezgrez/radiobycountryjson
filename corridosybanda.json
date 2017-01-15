@@ -2,14 +2,14 @@
          {
         "corridosybanda": [
             {
-                "playlist": ["http://149.202.198.86:8652/"],
+                "playlist": ["http://149.202.198.86:8652"],
                 "bitrate": 24,
                 "metaint": true,
                 "live": true,
                 "url_m3u": ""
             },
             {
-                "playlist": ["http://149.202.198.86:8652/"],
+                "playlist": ["http://149.202.198.86:8652"],
                 "bitrate": 128,
                 "metaint": true,
                 "live": true,

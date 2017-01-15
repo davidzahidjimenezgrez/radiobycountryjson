@@ -24,14 +24,14 @@
      {
         "pinkfloyd": [
             {
-                "playlist": ["http://87.117.193.5/8030"],
+                "playlist": ["http://87.117.193.5:8030"],
                 "bitrate": 24,
                 "metaint": true,
                 "live": true,
                 "url_m3u": ""
             },
             {
-                "playlist": ["http://87.117.193.5/8030"],
+                "playlist": ["http://87.117.193.5:8030"],
                 "bitrate": 128,
                 "metaint": true,
                 "live": true,

@@ -1,19 +1,4 @@
 {"items": [
-    {
-        "streams": [
-            {
-                "playlist": ["http://50.7.29.178:9974/"],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
-            }
-        ],
-        "genre": "Chihuahua",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/antena-102-5-fm-chihuahua.png",
-        "time": "",
-        "title": "Antena 102.5 FM"
-    },
 	{
         "streams": [
             {

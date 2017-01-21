@@ -1,0 +1,2584 @@
+{"items": [
+    {
+        "streams": [
+            {
+                "playlist": ["http://201.159.48.107:88/broadwave.mp3?src=1&amp;kbps=56"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/magia101fm.m3u"
+            }
+        ],
+        "genre": "Aguascalientes",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/magia101fm.png",
+        "time": "",
+        "title": "Magia 101.1 FM"
+    },
+	{
+        "streams": [
+            {
+                "playlist": ["http://201.159.48.107:88/broadwave.mp3?src=1&amp;kbps=56"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/790ambi.m3u"
+            }
+        ],
+        "genre": "Aguascalientes",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/790ambi.png",
+        "time": "",
+        "title": "790 AM BI"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://201.159.48.107:88/broadwave.mp3"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/bi887fm.m3u"
+            }
+        ],
+        "genre": "Aguascalientes",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/bi887fm.png",
+        "time": "",
+        "title": "BI 88.7 FM"
+    },
+	{
+        "streams": [
+            {
+                "playlist": ["http://201.159.48.106:88/broadwave.mp3?src=3&amp;kbps=24"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/uva905.m3u"
+            }
+        ],
+        "genre": "Aguascalientes",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/uva905.png",
+        "time": "",
+        "title": "UVA 90.5 FM"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://stream1.estereocatolica.com:8000/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/stereocatolicaaguascalientes.m3u"
+            }
+        ],
+        "genre": "Aguascalientes",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/stereocatolicaaguascalientes.png",
+        "time": "",
+        "title": "Stereo Catolica"
+    },
+	{
+        "streams": [
+            {
+                "playlist": ["http://198.27.88.63:9990/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/novaradio.m3u"
+            }
+        ],
+        "genre": "Aguascalientes",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/novaradio.png",
+        "time": "",
+        "title": "Nova Radio"
+    },
+	{
+        "streams": [
+            {
+                "playlist": ["http://zer.zuperdns.net:1021/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/lakaliente1029.m3u"
+            }
+        ],
+        "genre": "Aguascalientes",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/lakaliente1029.png",
+        "time": "",
+        "title": "La Kaliente 102.9 FM"
+    },
+	{
+        "streams": [
+            {
+                "playlist": ["http://zer.zuperdns.net:2001/;"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/lasanmarquena.m3u"
+            }
+        ],
+        "genre": "Aguascalientes",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/lasanmarquena.png",
+        "time": "",
+        "title": "La SanMarquena"
+    },
+	{
+        "streams": [
+            {
+                "playlist": ["http://zer.zuperdns.net:9570/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/40principales957fm.m3u"
+            }
+        ],
+        "genre": "Aguascalientes",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/40principales957fm.png",
+        "time": "",
+        "title": "40 Principales 95.7 FM"
+    },
+	{
+        "streams": [
+            {
+                "playlist": ["http://zer.zuperdns.net:1045/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/amor1045.m3u"
+            }
+        ],
+        "genre": "Aguascalientes",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/amor1045.png",
+        "time": "Amor 104.5 FM",
+        "title": ""
+    },
+	{
+        "streams": [
+            {
+                "playlist": ["http://zer.zuperdns.net:1006/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/laranchera1061.m3u"
+            }
+        ],
+        "genre": "Aguascalientes",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/laranchera1061.png",
+        "time": "",
+        "title": "La Ranchera 106.1 FM"
+    },
+	{
+        "streams": [
+            {
+                "playlist": [""],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/"
+            }
+        ],
+        "genre": "Aguascalientes",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/",
+        "time": "",
+        "title": ""
+    },
+	{
+        "streams": [
+            {
+                "playlist": ["http://201.159.48.107:88/broadwave.mp3?src=2.&amp;kbps=24&amp;"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/lapoderosa1077.m3u"
+            }
+        ],
+        "genre": "Aguascalientes",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/lapoderosa1077.png",
+        "time": "",
+        "title": "La Poderosa 107.7 FM"
+    },
+	{
+        "streams": [
+            {
+                "playlist": ["http://streaming.radionomy.com/HastaqueelcuerpoAguanteonline"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/aguante1037.m3u"
+            }
+        ],
+        "genre": "Aguante 103.7 FM Aguascalientes",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/aguante1037.png",
+        "time": "",
+        "title": "Hasta Que El Cuerpo"
+    },
+	{
+        "streams": [
+            {
+                "playlist": ["http://50.22.218.197:8783/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/masqueradio1073.m3u"
+            }
+        ],
+        "genre": "Aguascalientes",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/masqueradio1073.png",
+        "time": "",
+        "title": "Mas Que Radio 107.3 FM"
+    },
+	{
+        "streams": [
+            {
+                "playlist": ["http://184.107.179.162:3419/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/radiofe983.m3u"
+            }
+        ],
+        "genre": "Aguascalientes",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/radiofe983.png",
+        "time": "",
+        "title": "Radio Fe 98.3 FM"
+    },
+	{
+        "streams": [
+            {
+                "playlist": ["ttp://95.211.115.197:8129/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/suenaradio.m3u"
+            }
+        ],
+        "genre": "Aguascalientes",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/suenaradio.png",
+        "time": "",
+        "title": "Suena Radio FM"
+    },
+	{
+        "streams": [
+            {
+                "playlist": ["http://208.43.9.106:8015/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/radioesfuentedeluz.m3u"
+            }
+        ],
+        "genre": "Aguascalientes",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/radioesfuentedeluz.png",
+        "time": "",
+        "title": "Fuente de Luz"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://162.144.96.212:8000/cadena1010"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/cadena-1010-am-mexicali.png",
+        "time": "",
+        "title": "Caneda 1010 AM"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://stream2.dyndns.org:8000/xhebc.mp3"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/la-ke-buena-97-9-fm-ensenada.png",
+        "time": "",
+        "title": "Ke Buena 97.9 FM"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://192.173.28.42/XHADA_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/exa-106-9-fm-ensenada.png",
+        "time": "",
+        "title": "Ponte Exa 106.9 FM"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://stream2.dyndns.org:8000/xhat.mp3"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/40-principales-101-1-fm-ensenada.png",
+        "time": "",
+        "title": "40 Pricipales 101.1"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://stream2.dyndns.org:8000/xhmc.mp3"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/estereo-vida-104-9-fm-mexicali.png",
+        "time": "",
+        "title": "Stereo Vida 104.9"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://stream2.dyndns.org:8000/xhsu.mp3"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/la-dinamic-105-9-fm-y-790-am-mexicali.png",
+        "time": "",
+        "title": "La Dinamica 105.9"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://208.80.54.31/XEDAFM_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/imagen-105-5-fm-mexicali.png",
+        "time": "",
+        "title": "Imagen Radio 105.5"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://192.173.28.34/XHVGFM_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/la-mejor-103-3-fm-mexicali.png",
+        "time": "",
+        "title": "La Mejor FM 103.3"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://stream2.dyndns.org:8000/xhmmf.mp3"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/la-poderosa-fm-92-3-mexicali.png",
+        "time": "",
+        "title": "La Poderosa 92.3"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://stream2.dyndns.org:8000/xed.mp3"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/sigloxxi-1050-am-mexicali.png",
+        "time": "",
+        "title": "Siglo XXI 1050 AM"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://s4.viastreaming.net:9010/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/la-tremenda-1030-am-mexicali.png",
+        "time": "",
+        "title": "la Tremenda 1030 AM"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://stream2.dyndns.org:8000/xecl.mp3"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/la-rocola-990-am-mexicali.png",
+        "time": "",
+        "title": "La Rocola 990 AM"
+    },  {
+        "streams": [
+            {
+                "playlist": ["http://stream2.dyndns.org:8000/xegh.mp3"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/romantica-1370-am-mexicali.png",
+        "time": "",
+        "title": "Romantica 1370 AM"
+    },  {
+        "streams": [
+            {
+                "playlist": ["http://stream2.dyndns.org:8000/xhsol.mp3"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/tu-recuerdo-89-9-fm-mexicali.png",
+        "time": "",
+        "title": "Tu Recuerdo 89.9 FM"
+    },  {
+        "streams": [
+            {
+                "playlist": ["http://206.217.207.207:6142/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/la-estacion-del-amor-ensenada.png",
+        "time": "",
+        "title": "La Estación del Amor"
+    },  {
+        "streams": [
+            {
+                "playlist": ["http://192.173.28.34/LACALIENTE_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/radio-milenio-95-3-fm-tijuana.png",
+        "time": "",
+        "title": "95.3 FM"
+    },  {
+        "streams": [
+            {
+                "playlist": ["http://162.144.96.212:8000/cadena1550"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/cadena-1550-am-tijuana.png",
+        "time": "",
+        "title": "Cadena 1550 AM"
+    },  {
+        "streams": [
+            {
+                "playlist": ["http://192.99.2.31:8020/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/conexion-fm-tijuana.png",
+        "time": "",
+        "title": "Conexion FM"
+    },  {
+        "streams": [
+            {
+                "playlist": ["http://208.80.54.96/XHGLX_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/exa-91-7-fm-tijuana.png",
+        "time": "",
+        "title": "Ponte EXA 91.7"
+    },  {
+        "streams": [
+            {
+                "playlist": ["http://s7.viastreaming.net:8565/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/radio-enciso-1310-am-tijuana.png",
+        "time": "",
+        "title": "Radio Enciso 1310 AM"
+    },  {
+        "streams": [
+            {
+                "playlist": ["http://208.80.54.57/XLTNFM_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/radio-latina-104-5-fm-tijuana.png",
+        "time": "",
+        "title": "Latina 104.5 FM"
+    },  {
+        "streams": [
+            {
+                "playlist": ["http://s1.radiorama.com.mx:7564/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/vida-1420-am-tijuana.png",
+        "time": "",
+        "title": "Vida 1420 AM"
+    },  {
+        "streams": [
+            {
+                "playlist": ["http://208.80.54.45/XHPFFM_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/globo-101-9-fm-mexicali.png",
+        "time": "",
+        "title": "Globo 101.9 FM"
+    },  {
+        "streams": [
+            {
+                "playlist": ["http://208.80.54.45/XHPFFM_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/uni-radio-1470-am-tijuana.png",
+        "time": "",
+        "title": "UniRadio"
+    },  {
+        "streams": [
+            {
+                "playlist": ["http://200.77.221.3:8000/radio"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/udci-radio-tijuana.png",
+        "time": "",
+        "title": "UDCI Radio"
+    },  {
+        "streams": [
+            {
+                "playlist": ["http://200.77.221.3:8000/radio"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/la-caliente-95-3-fm-tijuana.png",
+        "time": "",
+        "title": "La caliente 95.3 FM"
+    },  {
+        "streams": [
+            {
+                "playlist": ["http://208.80.54.31/XHJCFM_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/exa-91-5-fm-mexicali.png",
+        "time": "",
+        "title": "EXA 91.5 FM"
+    },  {
+        "streams": [
+            {
+                "playlist": ["http://192.173.28.36/XHJCFM_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/la-mejor-fm-90-7-tijuana.png",
+        "time": "",
+        "title": "La Mejor 90.7 FM"
+    },  {
+        "streams": [
+            {
+                "playlist": ["http://64.15.187.58:8000/mexicali"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/radio-formula-primera-cadena-1150-am-mexicali.png",
+        "time": "",
+        "title": "Mexicali 1150 AM"
+    },  {
+        "streams": [
+            {
+                "playlist": ["http://162.144.96.212:8000/morefm1067"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/more-fm-106-7-mexicali.png",
+        "time": "",
+        "title": "More FM 106.7"
+    },  {
+        "streams": [
+            {
+                "playlist": ["http://162.144.96.212:8000/cadena800"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/noticias-800-am-tijuana.png",
+        "time": "",
+        "title": "Cadena 800 AM"
+    },  {
+        "streams": [
+            {
+                "playlist": ["http://162.144.96.212:8000/morefm989"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/more-98-9-fm-tijuana.png",
+        "time": "",
+        "title": "More FM 98.9"
+    },  {
+        "streams": [
+            {
+                "playlist": ["http://108.163.173.130:18300/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/xs-92-9-fm-ensenada.png",
+        "time": "",
+        "title": "XS 92.9 FM"
+    },  {
+        "streams": [
+            {
+                "playlist": ["http://162.144.96.212:8000/cadena1190"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/cadena-1190-am-mexicali.png",
+        "time": "",
+        "title": "Cadena 1190 AM"
+    },  {
+        "streams": [
+            {
+                "playlist": ["http://148.231.3.56/mxl"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/uabc-radio-mexicali.png",
+        "time": "",
+        "title": "UABC RADIO"
+    },  {
+        "streams": [
+            {
+                "playlist": ["http://stream2.dyndns.org:8000/xhepf.mp3"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/stereo-vida-89-1-fm-ensenada.png",
+        "time": "",
+        "title": "Stereo Vida 1400 AM"
+    },  {
+        "streams": [
+            {
+                "playlist": ["http://208.80.54.31/XEDAFM_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/imagen-90-5-fm-tijuana.png",
+        "time": "",
+        "title": "Imagen Radio 90.5 AM"
+    },  {
+        "streams": [
+            {
+                "playlist": ["http://204.45.15.50:2124/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/playlist.m3u"
+            }
+        ],
+        "genre": "Baja California",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/invasora-99-7-fm-tijuana.png",
+        "time": "",
+        "title": "Invasora 99.7"
+},
+{
+        "streams": [
+            {
+                "playlist": ["http://64.15.187.58:8000/lapaz"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacaliforniasur/"
+            }
+        ],
+        "genre": "Baja California Sur",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacaliforniasur/radio-formula-790-am-la-paz.png",
+        "time": "",
+        "title": "Radio Formula"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://www.kvoz.com:8080/radiolagiganta"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacaliforniasur/"
+            }
+        ],
+        "genre": "Baja California Sur",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacaliforniasur/la-giganta-730-am-loreto.png",
+        "time": "",
+        "title": "La Giganta 730 AM"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://www.kvoz.com:8080/xehz"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacaliforniasur/"
+            }
+        ],
+        "genre": "Baja California Sur",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacaliforniasur/fm-xehz-990-am-la-paz.png",
+        "time": "",
+        "title": "990 AM"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://50.7.29.178:9976/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacaliforniasur/"
+            }
+        ],
+        "genre": "Baja California Sur",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacaliforniasur/cabo-mil-fm-96-3-san-lucas.png",
+        "time": "",
+        "title": "Cabo Mil 96.3 FM"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://192.187.112.50:8048/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacaliforniasur/"
+            }
+        ],
+        "genre": "Baja California Sur",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacaliforniasur/radium-la-paz.png",
+        "time": "",
+        "title": "Ra FM"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://148.231.3.56/mxl"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacaliforniasur/"
+            }
+        ],
+        "genre": "Baja California Sur",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacaliforniasur/uabc-radio-104-1-fm.png",
+        "time": "",
+        "title": "UABC Radio"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://95.211.115.197:8227/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacaliforniasur/"
+            }
+        ],
+        "genre": "Baja California Sur",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacaliforniasur/radio-contacto-los-cabos.png",
+        "time": "",
+        "title": "Contacto los Cabos"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://www.misionfm.com:8080/Superstereo96"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacaliforniasur/"
+            }
+        ],
+        "genre": "Baja California Sur",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacaliforniasur/mision-fm-92-5.png",
+        "time": "",
+        "title": "Misión FM"
+},
+ {
+        "streams": [
+            {
+                "playlist": ["http://mediaservicios.com.mx:8040/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/campeche/playlist.m3u"
+            }
+        ],
+        "genre": "Campeche",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/campeche/kiss-101-9-fm-campeche.png",
+        "time": "",
+        "title": "Radio Kiss 101.9 FM"
+    },
+    
+    {
+        "streams": [
+            {
+                "playlist": ["http://stream2.dyndns.org:8000/xhit.mp3"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/campeche/playlist.m3u"
+            }
+        ],
+        "genre": "Campeche",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/campeche/exa-1070-am-cd-del-carmen.png",
+        "time": "",
+        "title": "EXA 1070 AM"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://167.114.131.90:5200/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/campeche/playlist.m3u"
+            }
+        ],
+        "genre": "Campeche",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/campeche/radio-la-nueva-republica-monalisa-campeche.png",
+        "time": "",
+        "title": "La Nueva Republica"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://208.80.54.96/XHMI_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/campeche/playlist.m3u"
+            }
+        ],
+        "genre": "Campeche",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/campeche/exa-fm-100-3-fm-campeche.png",
+        "time": "",
+        "title": "EXA 100.3 FM"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://208.80.54.30/XHMI_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/campeche/playlist.m3u"
+            }
+        ],
+        "genre": "Campeche",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/campeche/exa-fm-100-3-fm-campeche.png",
+        "time": "",
+        "title": "Ke Buena 102.7 FM"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://184.107.217.186:1638/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/campeche/playlist.m3u"
+            }
+        ],
+        "genre": "Campeche",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/campeche/ncs-champoton-96-7-fm-campeche.png",
+        "time": "",
+        "title": "NCS Champoton"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://www.tuasesorweb.com:8016/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/campeche/playlist.m3u"
+            }
+        ],
+        "genre": "Campeche",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/campeche/maxima-98-9-fm-ciudad-del-carmen.png",
+        "time": "",
+        "title": "Maxima 98.9"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://184.107.217.186:1223/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/campeche/playlist.m3u"
+            }
+        ],
+        "genre": "Campeche",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/campeche/radio-escarcega-103-9-fm-campeche.png",
+        "time": "",
+        "title": "NCS Escarcega 103.9 FM"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://184.107.217.186:1443/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/campeche/playlist.m3u"
+            }
+        ],
+        "genre": "Campeche",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/campeche/radio-palizada-106-5-fm-campeche.png",
+        "time": "",
+        "title": "NCS 106.9"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://192.100.163.140:8000/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/campeche/playlist.m3u"
+            }
+        ],
+        "genre": "Campeche",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/campeche/radio-uac.png",
+        "time": "",
+        "title": "Radio UAC"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://sc1.streamingchoice.com:9180/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/campeche/playlist.m3u"
+            }
+        ],
+        "genre": "Campeche",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/campeche/radial-88-9-fm-cd-del-carmen.png",
+        "time": "",
+        "title": "Radial 88.9"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://69.31.54.143/LOS40_MEXICO_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/campeche/playlist.m3u"
+            }
+        ],
+        "genre": "Campeche",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/campeche/los-40-principales-100-5-fm-cd-del-carmen.png",
+        "time": "",
+        "title": "40 Principales 100.5 FM"
+},
+{
+        "streams": [
+            {
+                "playlist": [""],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/cdmx/"
+            }
+        ],
+        "genre": "",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/cdmx/",
+        "time": "",
+        "title": ""
+    },
+    {
+        "streams": [
+            {
+                "playlist": [""],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/cdmx/"
+            }
+        ],
+        "genre": "",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/cdmx/",
+        "time": "",
+        "title": ""
+    },
+    {
+        "streams": [
+            {
+                "playlist": [""],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/cdmx/"
+            }
+        ],
+        "genre": "",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/cdmx/",
+        "time": "",
+        "title": ""
+    },
+    {
+        "streams": [
+            {
+                "playlist": [""],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/cdmx/"
+            }
+        ],
+        "genre": "",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/cdmx/",
+        "time": "",
+        "title": ""
+    },
+    {
+        "streams": [
+            {
+                "playlist": [""],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/cdmx/"
+            }
+        ],
+        "genre": "",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/cdmx/",
+        "time": "",
+        "title": ""
+    },
+    {
+        "streams": [
+            {
+                "playlist": [""],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/cdmx/"
+            }
+        ],
+        "genre": "",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/cdmx/",
+        "time": "",
+        "title": ""
+    },
+    {
+        "streams": [
+            {
+                "playlist": [""],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/cdmx/"
+            }
+        ],
+        "genre": "",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/cdmx/",
+        "time": "",
+        "title": ""
+    },
+    {
+        "streams": [
+            {
+                "playlist": [""],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/cdmx/"
+            }
+        ],
+        "genre": "",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/cdmx/",
+        "time": "",
+        "title": ""
+    },
+    {
+        "streams": [
+            {
+                "playlist": [""],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/cdmx/"
+            }
+        ],
+        "genre": "",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/cdmx/",
+        "time": "",
+        "title": ""
+    },
+    {
+        "streams": [
+            {
+                "playlist": [""],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/cdmx/"
+            }
+        ],
+        "genre": "",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/cdmx/",
+        "time": "",
+        "title": ""
+    },
+    {
+        "streams": [
+            {
+                "playlist": [""],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/cdmx/"
+            }
+        ],
+        "genre": "",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/cdmx/",
+        "time": "",
+        "title": ""
+    },
+    {
+        "streams": [
+            {
+                "playlist": [""],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/cdmx/"
+            }
+        ],
+        "genre": "",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/cdmx/",
+        "time": "",
+        "title": ""
+},
+{
+        "streams": [
+            {
+                "playlist": ["http://216.55.186.61:8039/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/playlist.m3u"
+            }
+        ],
+        "genre": "Chiapas",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/extremo-grupero-89-9-fm-cintalapa.png",
+        "time": "",
+        "title": "Extremo Grupero 89.9 FM"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://204.45.15.50:2044/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/playlist.m3u"
+            }
+        ],
+        "genre": "Chiapas",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/extremo-103-9-fm-villaflores.png",
+        "time": "",
+        "title": "Extremo, Villa Flores 103.9 FM"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://216.55.186.61:8067/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/playlist.m3u"
+            }
+        ],
+        "genre": "Chiapas",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/extremo-90-7-fm-tapachula.png",
+        "time": "",
+        "title": "Extremo 90.7 FM"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://216.55.186.61:8020/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/playlist.m3u"
+            }
+        ],
+        "genre": "Chiapas",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/40-principales-96-1-fm-tuxtla-gutierrez.png",
+        "time": "",
+        "title": "40 Principales 96.1"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://216.55.186.61:8024/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/playlist.m3u"
+            }
+        ],
+        "genre": "Chiapas",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/la-ke-buena-fm-100-1-tuxtla-gutierrez.png",
+        "time": "",
+        "title": "Ke Buena 100.1 FM"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://198.50.113.170:9056/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/playlist.m3u"
+            }
+        ],
+        "genre": "Chiapas",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/radio-tepeyac-93-3-fm-san-cristobal-de-las-casas.png",
+        "time": "",
+        "title": "Tepeyac 93.3 FM"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://208.80.54.149/XHRO_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/playlist.m3u"
+            }
+        ],
+        "genre": "Chiapas",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/la-mejor-101-7-fm-tuxtla-gutierrez.png",
+        "time": "",
+        "title": "La Mejor 101.7 FM"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://66.240.202.106:9082/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/playlist.m3u"
+            }
+        ],
+        "genre": "Chiapas",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/bella-musica-93-1-fm-tuxtla-gutierrez.png",
+        "time": "",
+        "title": "93.1 FM"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://66.240.202.106:9080/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/playlist.m3u"
+            }
+        ],
+        "genre": "Chiapas",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/exa-98-5-fm-tuxtla-gutierrez.png",
+        "time": "",
+        "title": "EXA 98.5 FM"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://66.240.202.106:9082/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/playlist.m3u"
+            }
+        ],
+        "genre": "Chiapas",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/bella-musica-106-7-fm-tapachula.png",
+        "time": "",
+        "title": "106.7 FM"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://206.190.131.100:9300/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/playlist.m3u"
+            }
+        ],
+        "genre": "Chiapas",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/radio-congreso-chiapas.png",
+        "time": "",
+        "title": "Radio Congreso"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://216.55.186.61:8071/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/playlist.m3u"
+            }
+        ],
+        "genre": "Chiapas",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/extremo-grupero-99-1-fm-comitan.png",
+        "time": "",
+        "title": "Extremo Grupero 99.1 FM"
+    },  {
+        "streams": [
+            {
+                "playlist": ["http://216.55.186.61:8007/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/playlist.m3u"
+            }
+        ],
+        "genre": "Chiapas",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/extremo-90-3-fm-tuxtla-gutierrez.png",
+        "time": "",
+        "title": "Extremo 90.3 FM"
+    },  {
+        "streams": [
+            {
+                "playlist": ["http://s1.radiorama.com.mx:9590/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/playlist.m3u"
+            }
+        ],
+        "genre": "Chiapas",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/la-mas-perrona-98-7-fm-tapachula.png",
+        "time": "",
+        "title": "La Mas Perrona 98.7 FM"
+    },  {
+        "streams": [
+            {
+                "playlist": ["http://216.55.186.61:8063/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/playlist.m3u"
+            }
+        ],
+        "genre": "Chiapas",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/40-principales-99-5-fm-tapachula.png",
+        "time": "",
+        "title": "40 Principales 99.5"
+    },  {
+        "streams": [
+            {
+                "playlist": ["http://108.163.177.42:2465/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/playlist.m3u"
+            }
+        ],
+        "genre": "Chiapas",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/exa-95-7-fm-comitan.png",
+        "time": "",
+        "title": "EXA 95.7 FM"
+    },  {
+        "streams": [
+            {
+                "playlist": ["http://198.50.113.170:9248/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/playlist.m3u"
+            }
+        ],
+        "genre": "Chiapas",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/exa-91-5-fm-tapachula.png",
+        "time": "",
+        "title": "EXA 91.5 FM"
+    },  {
+        "streams": [
+            {
+                "playlist": ["http://216.55.186.61:8059/stream"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/playlist.m3u"
+            }
+        ],
+        "genre": "Chiapas",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/la-ke-buena-94-7-fm-tapachula.png",
+        "time": "",
+        "title": "La Ke Buena 94.7 FM"
+    },  {
+        "streams": [
+            {
+                "playlist": ["http://216.55.186.61:8055/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/playlist.m3u"
+            }
+        ],
+        "genre": "Chiapas",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/extremo-grupero-95-1-fm-mapastepec.png",
+        "time": "",
+        "title": "EXTREMO 95.1 FM"
+    },  {
+        "streams": [
+            {
+                "playlist": ["http://radiopepito.purestream.net:8010/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/playlist.m3u"
+            }
+        ],
+        "genre": "Chiapas",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/radio-pepito-tuxtla-gutierrez.png",
+        "time": "",
+        "title": "Radio Pepito "
+    },  {
+        "streams": [
+            {
+                "playlist": ["http://www.tuasesorweb.com:8018/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/playlist.m3u"
+            }
+        ],
+        "genre": "Chiapas",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/maxima-96-9-fm.png",
+        "time": "",
+        "title": "Maxima 96.9 FM"
+    },  {
+        "streams": [
+            {
+                "playlist": ["http://69.31.54.140/XECHH_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/playlist.m3u"
+            }
+        ],
+        "genre": "Chiapas",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/capital-maxima-650-am.png",
+        "time": "",
+        "title": "Capital Maxima"
+    },  {
+        "streams": [
+            {
+                "playlist": ["http://www.tuasesorweb.com:8038/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/playlist.m3u"
+            }
+        ],
+        "genre": "Chiapas",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/maxima-97-9-fm.png",
+        "time": "",
+        "title": "Maxima 97.9 FM"
+},
+{
+        "streams": [
+            {
+                "playlist": ["http://stream2.dyndns.org:8000/xhfa"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/la-poderosa-89-3-fm-y-950-am-chihuahua.png",
+        "time": "",
+        "title": "La Poderosa 89.3 FM"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://72.29.80.105:7064/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/la-jefa-radio-96-1-fm-ciudad-camargo.png",
+        "time": "",
+        "title": "La Jefa 96.1 FM"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://212.83.172.242:8012/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/la-ranchera-de-cuauhtemoc-89-7-fm.png",
+        "time": "",
+        "title": "La Ranchera 89.7 FM"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://208.80.54.97/XEDAFM_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/radio-imagen-97-3-fm-chihuahua.png",
+        "time": "",
+        "title": "Imagen 97.3 FM"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://64.15.187.58:8000/juarez"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/radio-formula-primesa-cadena-1030-am-ciudad-juarez.png",
+        "time": "",
+        "title": "Cadena 1030AM"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://stream2.dyndns.org:8000/xhua"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/stereo-vida-90-1-fm-chihuahua.png",
+        "time": "",
+        "title": "Vida 90.1 FM"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://stream2.dyndns.org:8000/xhsb"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/la-mexicana-94-9-fm-y-810-am-hidalgo-de-parral.png",
+        "time": "",
+        "title": "La Mexicana 94.9 FM"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://69.31.54.136/XHSBT_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/exa-100-9-fm-chihuahua.png",
+        "time": "",
+        "title": "EXA 100.9 FM"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://radio.promosat.com:8122/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/fiesta-mexicana-94-5-fm-delicias.png",
+        "time": "",
+        "title": "Fiesta 94.5 FM"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://stream2.dyndns.org:8000/xehes"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/siglo-xxi-1040-am-chihuahua.png",
+        "time": "",
+        "title": "Siglo XXI 1040 AM"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://212.83.172.242:8048/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/la-poderosa-100-9-fm-ojinaga.png",
+        "time": "",
+        "title": "la Poderosa 100.9 FM"
+    },{
+        "streams": [
+            {
+                "playlist": ["http://208.80.52.67/XHSNPFM_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/la-caliente-102-5-fm-hidalgo-del-parral.png",
+        "time": "",
+        "title": "La Caliente 102.5 FM"
+    },{
+        "streams": [
+            {
+                "playlist": ["http://198.50.113.170:9272/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/la-que-buena-de-san-buena-99-5-fm-nuevo-casas-grande.png",
+        "time": "",
+        "title": "La Que Buena 99.5"
+    },{
+        "streams": [
+            {
+                "playlist": ["http://stream2.dyndns.org:8000/xhrpc"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/estereo-fiesta-99-3-fm-chihuahua.png",
+        "time": "",
+        "title": "Fiesta 99.3 FM"
+    },{
+        "streams": [
+            {
+                "playlist": ["http://192.173.28.42/XHCHHFM_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/d95-94-9-fm-chihuahua.png",
+        "time": "",
+        "title": "D95 94.9 FM"
+    },{
+        "streams": [
+            {
+                "playlist": ["http://192.173.28.42/XHHPRFM_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/radio-parral-101-7-fm-hidalgo-del-parral.png",
+        "time": "",
+        "title": "Parral 101.7 FM"
+    },{
+        "streams": [
+            {
+                "playlist": ["http://stream2.dyndns.org:8000/xhhb"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/la-ke-buena-fm-107-1-hidalgo-de-parral.png",
+        "time": "",
+        "title": "La Ke Buena 107.1 FM"
+    },{
+        "streams": [
+            {
+                "playlist": ["http://208.80.54.27/XHCHAFM_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/hits-fm-104-5-chihuahua.png",
+        "time": "",
+        "title": "HITS 104.5 FM"
+    },{
+        "streams": [
+            {
+                "playlist": ["http://69.31.54.142/XHCTCFM_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/la-caliente-99-9-fm-ciudad-cuauhtemoc.png",
+        "time": "",
+        "title": "La Caliente 99.9"
+    },{
+        "streams": [
+            {
+                "playlist": ["http://212.83.172.242:8030/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/estereo-romance-92-9-fm-ciudad-cuauhtemoc",
+        "time": "",
+        "title": "Estereo Romance 92.9 FM"
+    },{
+        "streams": [
+            {
+                "playlist": ["http://192.173.28.38/XHHEMFM_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/milenio-radio-103-7-fm-chihuahua.png",
+        "time": "",
+        "title": "Milenio 103.7 fm"
+    },{
+        "streams": [
+            {
+                "playlist": ["http://208.80.54.67/XHAHCFM_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/la-caliente-90-9-fm-chihuahua.png",
+        "time": "",
+        "title": "La Caliente 90.9 FM"
+    },{
+        "streams": [
+            {
+                "playlist": ["http://208.80.54.56/XEZOL_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/radio-noticias-860-am-ciudad-juarez.png",
+        "time": "",
+        "title": "Radio Noticias 860 AM"
+    },{
+        "streams": [
+            {
+                "playlist": ["http://212.83.172.242:8024/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/la-sabrosita-104-1-fm-ciudad-cuauhtemoc.png",
+        "time": "",
+        "title": "La Sabrosita 104.1 FM"
+    },{
+        "streams": [
+            {
+                "playlist": ["http://50.7.29.178:9890/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/flaming-stereo-93-7-fm-ciudad-delicias.png",
+        "time": "",
+        "title": "Flamingo 93.7 FM"
+    },{
+        "streams": [
+            {
+                "playlist": ["http://200.66.39.11:8040/xstream"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/la-tremenda-96-9-fm-parral.png",
+        "time": "",
+        "title": "La Tremenda 96.9 FM"
+    },{
+        "streams": [
+            {
+                "playlist": ["http://stream2.dyndns.org:8000/xhdi"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/la-nueva-88-5-fm-chihuahua.png",
+        "time": "",
+        "title": "La Nueva 88.5 FM"
+    },{
+        "streams": [
+            {
+                "playlist": ["http://stream2.dyndns.org:8000/xefi"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/radio-mexicana-580-am-chihuahua.png",
+        "time": "",
+        "title": "Mexicana 580 AM"
+    },{
+        "streams": [
+            {
+                "playlist": ["http://stream2.dyndns.org:8000/xefo"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/extasis-digital-680-am-chihuahua.png",
+        "time": "",
+        "title": "Extasis 680 AM"
+    },{
+        "streams": [
+            {
+                "playlist": ["http://198.50.113.170:9268/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/la-ranchera-540-am-casas-grandes.png",
+        "time": "",
+        "title": "La Ranchera 540 AM"
+    },{
+        "streams": [
+            {
+                "playlist": ["http://usa1.fastcast4u.com:2626/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/la-lupe-98-8-fm-y-660-am-ciudad-delicias.png",
+        "time": "",
+        "title": "La Lupe 98.8 FM"
+    },{
+        "streams": [
+            {
+                "playlist": ["http://212.83.172.242:8066/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/xejua-640-am-cd-juarez.png",
+        "time": "",
+        "title": "XEJUA 640 AM"
+    },{
+        "streams": [
+            {
+                "playlist": ["http://212.83.172.242:8060/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/xejs-1150-am-parral.png",
+        "time": "",
+        "title": "1150 AM"
+    },{
+        "streams": [
+            {
+                "playlist": ["http://198.50.113.170:9270/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/playlist.m3u"
+            }
+        ],
+        "genre": "Chihuahua",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/la-sabrosita-104-9-fm-nuevo-casas-grandes.png",
+        "time": "",
+        "title": "La Sabrosita 104.9 FM"
+},
+ {
+        "streams": [
+            {
+                "playlist": ["http://stream2.dyndns.org:8000/xegz"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/milenio-radio-99-5-fm-y-790-am-torreon.png",
+        "time": "",
+        "title": "Milenio Radio 99.5 FM"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://stream2.dyndns.org:8000/xhsg"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/estereo-vida-99-9-fm-piedras-negras.png",
+        "time": "",
+        "title": "Estereo Vida 99.9 FM"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://50.7.29.178:9984/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/la-primera-610-am-sabinas.png",
+        "time": "",
+        "title": "La Primera 610 AM"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://stream.redcoahuila.net:8130/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/radio-saltillo-1250-am-y-103-3-fm-saltillo.png",
+        "time": "",
+        "title": "1250 AM"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://212.83.135.226:7326/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/la-rancherita-del-aire-580-y-103-7-fm-piedras-negras.png",
+        "time": "",
+        "title": "La Rancherita 103.7 FM"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://208.80.54.76/XHPE_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/la-mejor-97-1-fm-torreon.png",
+        "time": "",
+        "title": "La Mejor 97.1 FM"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://208.80.54.10/XHPE_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/los-40-principales-570-am-torreon.png",
+        "time": "",
+        "title": "40 Principales 570 AM"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://50.7.184.106:8724/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/xeks-960-am-saltillo.png",
+        "time": "",
+        "title": "XEKS 960 AM"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://listen.radionomy.com/super-radio-sterio"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/super-radio-sterio-piedras-negras.png",
+        "time": "",
+        "title": "Super Radio"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://stream2.dyndns.org:8000/xers"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/extasis-digital-1380-am-y-104-3-fm-torreon.png",
+        "time": "",
+        "title": "Extasis Digital 1380 AM"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://192.173.28.38/XHVTHFM_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/la-mas-buena-90-3-fm-torreon.png",
+        "time": "",
+        "title": "La Más Buena 90.3"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://192.173.28.42/XHTRRFM_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/la-caliente-92-3-fm-torreon.png",
+        "time": "",
+        "title": "La Caliente 92.3"
+    }, 
+    {       
+        "streams": [
+            {
+                "playlist": ["http://208.80.54.125/XHMP_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/exa-95-5-fm-torreon.png",
+        "time": "",
+        "title": "EXa 95.5 FM"
+    },  
+    {      
+        "streams": [
+            {
+                "playlist": ["http://192.173.28.34/XHCTOFM_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/hits-93-1-fm-torreon.png",
+        "time": "",
+        "title": "HITS 93.1 FM"
+    },  
+    {       
+        "streams": [
+            {
+                "playlist": ["http://208.80.54.27/XHQCFM_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/stereo-saltillo-93-5-fm.png",
+        "time": "",
+        "title": "Saltillo 93.5 FM"
+    },   
+    {     
+        "streams": [
+            {
+                "playlist": ["http://208.80.54.45/XESACFM_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/milenio-radio-99-3-fm-saltillo.png",
+        "time": "",
+        "title": "Milenio 99.3 FM"
+    }, 
+    {       
+        "streams": [
+            {
+                "playlist": ["http://208.80.54.31/XEDAFM_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/radio-imagen-94-7-fm-saltillo.png",
+        "time": "",
+        "title": "Imagen Radii 94.7 FM"
+    },  
+    {    
+        "streams": [
+            {
+                "playlist": ["http://192.173.28.58/XHCLOFM_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/la-caliente-107-1-fm-monclova.png",
+        "time": "",
+        "title": "La Caliente 107.1 FM"
+    },   
+    {     
+        "streams": [
+            {
+                "playlist": ["http://radio.alphamx.net:8068/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/imagen-radio-100-3-fm-torreon.png",
+        "time": "",
+        "title": "Imagen Radio 100.3 FM"
+    },  
+    {     
+        "streams": [
+            {
+                "playlist": ["http://72.249.55.100:9996/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/super-fm-99-5-monclova.png",
+        "time": "",
+        "title": "Super 99.5 FM"
+    },  
+    {      
+        "streams": [
+            {
+                "playlist": ["http://208.80.54.98/XHPNSFM_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/amor-107-1-fm-piedras-negras.png",
+        "time": "",
+        "title": "Amor 107.1 FM"
+    },  
+    {
+        "streams": [
+            {
+                "playlist": ["http://208.80.54.26/XHCDUFM_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/super-estelar-92-9-fm-ciudad-acuna.png",
+        "time": "",
+        "title": "Super Estelar 92.9"
+    },   
+    {     
+        "streams": [
+            {
+                "playlist": ["http://stream2.dyndns.org:8000/xhyd"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/la-mexicana-105-1-fm-torreon.png",
+        "time": "",
+        "title": "La Mexicana 105.1 FM"
+    },  
+    {      
+        "streams": [
+            {
+                "playlist": ["http://72.249.55.100:9890/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/la-furia-del-norte-104-1-fm-monclova.png",
+        "time": "",
+        "title": "La Furia del Norte"
+    },   
+    {    
+        "streams": [
+            {
+                "playlist": ["http://208.80.54.77/XHIKFM_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/http://208.80.54.77/XHIKFM_SC",
+        "time": "",
+        "title": "La 96.7 FM"
+    },   
+    { 
+        "streams": [
+            {
+                "playlist": ["http://radio.inimusic.com:7344/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/radio-bebe-fm.png",
+        "time": "",
+        "title": "Radio Bebe FM"
+    },
+    {  
+        "streams": [
+            {
+                "playlist": ["http://208.43.9.106:8154/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/la-reina-100-9-fm.png",
+        "time": "",
+        "title": "La Reina 100.9 FM"
+    },
+    {     
+        "streams": [
+            {
+                "playlist": ["http://radio.animenexus.mx:8000/animenexus"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/anime-nexus.png",
+        "time": "",
+        "title": "Anime Nexus"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://69.31.54.140/XHTAFM_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/dinamica-94-5-fm.png",
+        "time": "",
+        "title": "Dinamica 94.5 FM"
+    },
+    {    
+        "streams": [
+            {
+                "playlist": ["http://208.80.54.77/XHPCFM_SC"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/super-estelar-107-9-fm.png",
+        "time": "",
+        "title": "Super Estelar 107.9 FM"
+    },
+    {   
+        "streams": [
+            {
+                "playlist": ["http://192.99.35.215:5025/xevd_remoto"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/playlist.m3u"
+            }
+        ],
+        "genre": "Coahuila",
+        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/radio-sensacion-1380-am.png",
+        "time": "",
+        "title": "Radio Sensacion"
+}
+
+]}

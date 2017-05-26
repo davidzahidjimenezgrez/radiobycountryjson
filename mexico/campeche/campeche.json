@@ -1,5 +1,21 @@
 {"items": [
 	
+   {
+        "streams": [
+            {
+                "playlist": ["http://192.99.2.48:8368/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/campeche/playlist.m3u"
+            }
+        ],
+        "genre": "Campeche",
+        "logo": "http://euforiaradio.com/images2/bannerentradaweb.jpg",
+        "time": "www.euforiaradio.com",
+        "title": "Euforia Radio "
+    },
+	
     {
         "streams": [
             {

@@ -1,6 +1,6 @@
 {"items": [
     {
-        "pinkfloyd": [
+        "stream": [
             {
                 "playlist": ["http://91.121.59.45:8013/stream"],
                 "bitrate": 24,
@@ -22,7 +22,7 @@
         "title": "Pink Floyd"
     },
      {
-        "pinkfloyd": [
+        "stream": [
             {
                 "playlist": ["http://87.117.193.5:8030"],
                 "bitrate": 24,

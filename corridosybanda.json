@@ -1,7 +1,7 @@
 {"items": [
    
             {
-        "corridosybanda": [
+        "stream": [
             {
                 "playlist": ["http://62.210.129.133:8008/"],
                 "bitrate": 24,
@@ -23,7 +23,7 @@
         "title": "Corridos y Banda"
 },
          {
-        "corridosybanda": [
+        "stream": [
             {
                 "playlist": ["http://14123.live.streamtheworld.com:3690/SAM09AAC291_SC"],
                 "bitrate": 24,
@@ -45,7 +45,7 @@
         "title": "Corridos y Banda"
 },
             {
-        "corridosybanda": [
+        "stream": [
             {
                 "playlist": ["http://s6.voscast.com:10144"],
                 "bitrate": 24,

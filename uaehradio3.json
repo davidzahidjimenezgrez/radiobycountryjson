@@ -1,0 +1,24 @@
+{"items": [
+    {
+        "stream": [
+            {
+                "playlist": ["https://www.uaeh.edu.mx/radio-shoutcast/listen.pls"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://www.uaeh.edu.mx/radio-shoutcast/listen.pls"
+            },
+            {
+                "playlist": ["https://www.uaeh.edu.mx/radio-shoutcast/listen.pls"],
+                "bitrate": 128,
+                "metaint": true,
+                "live": true,
+                "url_m3u": "https://www.uaeh.edu.mx/radio-shoutcast/listen.plshttps://www.uaeh.edu.mx/radio-shoutcast/listen.pls"
+            }
+        ],
+        "genre": "RADIO",
+        "logo": "https://pbs.twimg.com/profile_images/800814407974469636/pCY-dUlX.jpg",
+        "time": "Radio",
+        "title": "UAEH"
+    }
+]}
